@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.15\dlib-19.15_build\dlib\neon_test_build\CMakeFiles\216d738662b3f5c48c0e705ad94b96d9\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{54D0A6FB-0F0C-3149-8A45-015E6741DDD1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

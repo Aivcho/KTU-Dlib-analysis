@@ -1,0 +1,10 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\unicode\unicode.cpp" line="44" col="34" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\unicode\unicode.cpp" line="50" col="34" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\unicode\unicode.cpp" line="51" col="34" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\unicode\unicode.cpp" line="67" col="20" msg="use of old-style cast" />
+ <error level="error" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\unicode\unicode.cpp" line="100" col="14" msg="no member named &apos;mbstowcs&apos; in namespace &apos;std&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\unicode\unicode.cpp" line="110" col="41" msg="implicit conversion changes signedness: &apos;int&apos; to &apos;size_type&apos; (aka &apos;unsigned long long&apos;)" />
+ <error level="error" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\unicode\unicode.cpp" line="111" col="9" msg="use of undeclared identifier &apos;wcstombs&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\unicode\unicode.cpp" line="4" col="9" msg="macro is not used" />
+</log>

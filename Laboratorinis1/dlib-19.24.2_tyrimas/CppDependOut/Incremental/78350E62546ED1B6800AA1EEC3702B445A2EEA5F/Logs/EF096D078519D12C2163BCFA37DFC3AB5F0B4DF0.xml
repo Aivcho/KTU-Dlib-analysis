@@ -1,0 +1,6 @@
+<log>
+ <error level="error" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\threads\async.cpp" line="29" col="25" msg="no member named &apos;thread&apos; in namespace &apos;std&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\threads\async.cpp" line="21" col="23" msg="no previous prototype for function &apos;default_num_threads&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\threads\async.cpp" line="37" col="28" msg="declaration requires an exit-time destructor" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\threads\async.cpp" line="4" col="9" msg="macro is not used" />
+</log>

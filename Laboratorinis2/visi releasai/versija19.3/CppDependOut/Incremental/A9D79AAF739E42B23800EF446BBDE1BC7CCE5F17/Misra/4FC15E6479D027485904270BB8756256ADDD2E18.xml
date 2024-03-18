@@ -1,0 +1,2085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\cppdepend2024.1\defaulttoolchain\compiler\include\c++\cmath"><violation beginline="462" begincolumn="3" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="387" begincolumn="3" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="387" begincolumn="3" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="462" begincolumn="3" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="387" begincolumn="3" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="387" begincolumn="3" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="221" begincolumn="3" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="221" begincolumn="3" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="500" begincolumn="3" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\cppdepend2024.1\defaulttoolchain\compiler\include\c++\limits"><violation beginline="1639" begincolumn="7" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\cppdepend2024.1\defaulttoolchain\include\string.h"><violation beginline="72" begincolumn="1" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.3\dlib-19.3\dlib\assert.h"><violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="200" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.3\dlib-19.3\dlib\dnn\cpu_dlib.cpp"><violation beginline="25" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="25" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="25" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="25" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="25" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="29" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="29" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="29" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="29" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="29" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="33" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="40" begincolumn="47" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="44" begincolumn="21" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="49" begincolumn="21" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="57" begincolumn="21" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="60" begincolumn="17" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="67" begincolumn="21" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="72" begincolumn="21" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="90" begincolumn="17" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="90" begincolumn="17" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="90" begincolumn="17" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="128" begincolumn="17" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="128" begincolumn="17" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="128" begincolumn="17" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="132" begincolumn="21" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="159" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="221" begincolumn="17" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="223" begincolumn="17" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="244" begincolumn="33" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="243" begincolumn="33" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="242" begincolumn="33" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="254" begincolumn="33" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="253" begincolumn="33" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="252" begincolumn="33" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="275" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="275" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="275" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="275" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="285" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="290" begincolumn="17" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="302" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="302" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="302" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="302" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="302" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="302" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="315" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="345" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="363" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="385" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="404" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="409" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="423" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="423" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="423" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="423" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="423" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="423" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="423" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="423" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="423" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="449" begincolumn="17" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="465" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="465" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="465" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="506" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="506" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="506" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="510" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="544" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="544" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="544" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="544" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="544" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="544" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="609" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="610" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="611" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="611" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="611" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="611" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="611" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="611" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="611" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="611" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="667" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="667" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="692" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="692" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="805" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="805" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="805" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="805" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="805" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="805" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="874" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="875" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="876" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="876" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="876" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="876" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="876" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="876" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="876" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="876" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="940" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="940" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="966" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="966" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1086" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1103" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1132" begincolumn="21" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1135" begincolumn="21" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1154" begincolumn="25" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1156" begincolumn="25" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1191" begincolumn="25" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1195" begincolumn="29" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1200" begincolumn="29" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1217" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1232" begincolumn="17" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1237" begincolumn="17" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1265" begincolumn="21" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1265" begincolumn="21" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1275" begincolumn="21" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1294" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1294" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1339" begincolumn="13" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1354" begincolumn="17" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1359" begincolumn="17" rule="Rule6-3-1" ruleset="Statements">
+</violation>
+<violation beginline="1646" begincolumn="33" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1646" begincolumn="33" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1692" begincolumn="33" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1716" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="1717" begincolumn="13" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="1606" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="1659" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="1606" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="1781" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1781" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="1801" begincolumn="9" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="1801" begincolumn="9" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.3\dlib-19.3\dlib\dnn\cpu_dlib.h"><violation beginline="318" begincolumn="13" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="318" begincolumn="13" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.3\dlib-19.3\dlib\dnn\tensor.h"><violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="78" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="68" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="377" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="377" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="360" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="360" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="111" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="111" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="247" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="247" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="395" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="78" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="78" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="360" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="360" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="377" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="377" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="360" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="360" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="111" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="111" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="247" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="247" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="395" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="78" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="78" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="353" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="360" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="360" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="247" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="377" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="360" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="337" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="257" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="257" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="284" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="52" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="257" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="257" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="377" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="247" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="247" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="49" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="67" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="66" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="51" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="50" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="48" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.3\dlib-19.3\dlib\geometry\rectangle.h"><violation beginline="363" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="363" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="195" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="363" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="139" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="195" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="363" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="169" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="102" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="132" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="112" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="122" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="216" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="216" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.3\dlib-19.3\dlib\matrix\matrix_subexp.h"><violation beginline="65" begincolumn="5" rule="Rule11-0-1" ruleset="Classes">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.3\dlib-19.3\dlib\matrix\matrix_utilities.h"><violation beginline="453" begincolumn="5" rule="Rule11-0-1" ruleset="Classes">
+</violation>
+<violation beginline="3021" begincolumn="5" rule="Rule11-0-1" ruleset="Classes">
+</violation>
+</file></cppdepend-plugin>

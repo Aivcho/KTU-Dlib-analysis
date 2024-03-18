@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.6/dlib-19.6/dlib/cmake_utils/test_for_neon/CMakeLists.txt
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.6/dlib-19.6_build/CMakeFiles/3.29.0-rc4/CMakeCCompiler.cmake
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.6/dlib-19.6_build/CMakeFiles/3.29.0-rc4/CMakeCXXCompiler.cmake
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.6/dlib-19.6_build/CMakeFiles/3.29.0-rc4/CMakeRCCompiler.cmake
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.6/dlib-19.6_build/CMakeFiles/3.29.0-rc4/CMakeSystem.cmake

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\cppdepend2024.1\defaulttoolchain\include\stdio.h"><violation beginline="504" begincolumn="1" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.15\dlib-19.15\dlib\external\zlib\gzwrite.c"><violation beginline="317" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="317" begincolumn="17" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="323" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="324" begincolumn="9" rule="Rule6-6-5" ruleset="Statements">
+</violation>
+<violation beginline="327" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="327" begincolumn="29" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="9" begincolumn="1" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="333" begincolumn="9" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="11" begincolumn="1" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="338" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="338" begincolumn="27" rule="Rule5-14-1" ruleset="Statements">
+</violation>
+<violation beginline="10" begincolumn="1" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="362" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="377" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="379" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file></cppdepend-plugin>

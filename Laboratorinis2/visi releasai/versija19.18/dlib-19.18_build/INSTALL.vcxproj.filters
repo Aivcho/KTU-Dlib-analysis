@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18_build\CMakeFiles\d15821876d58478a18b8e9aa961ef4dc\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{996608FD-4E2F-39A9-8CB4-6E17450995CD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

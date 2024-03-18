@@ -1,0 +1,5 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\sockstreambuf\sockstreambuf_unbuffered.cpp" line="139" col="18" msg="implicit conversion loses integer precision: &apos;int_type&apos; (aka &apos;int&apos;) to &apos;char_type&apos; (aka &apos;char&apos;)" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\sockstreambuf\sockstreambuf_unbuffered.cpp" line="146" col="18" msg="implicit conversion loses integer precision: &apos;int_type&apos; (aka &apos;int&apos;) to &apos;char_type&apos; (aka &apos;char&apos;)" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\sockstreambuf\sockstreambuf_unbuffered.cpp" line="4" col="9" msg="macro is not used" />
+</log>

@@ -1,0 +1,5 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.9\dlib-19.9\dlib\external\libjpeg\jmemnobs.cpp" line="37" col="10" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.9\dlib-19.9\dlib\external\libjpeg\jmemnobs.cpp" line="57" col="10" msg="use of old-style cast" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.9\dlib-19.9\dlib\external\libjpeg\jmemnobs.cpp" line="90" col="3" msg="use of old-style cast" />
+</log>

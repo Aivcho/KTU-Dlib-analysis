@@ -1,0 +1,94 @@
+<Index><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\external\zlib\adler32.c" id="1" stamp="1684080372"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\external\zlib\zutil.h" id="2" stamp="1684080372"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\external\zlib\zlib.h" id="3" stamp="1684080372"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis1\dlib-19.24.2\dlib\external\zlib\zconf.h" id="4" stamp="1684080372"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\stddef.h" id="5" stamp="1547491789"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\limits.h" id="6" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\_mingw.h" id="7" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\msvcrtver.h" id="8" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\w32api.h" id="9" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sdkddkver.h" id="10" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\features.h" id="11" stamp="1553706234"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sys\types.h" id="12" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\stdarg.h" id="13" stamp="1547491789"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\string.h" id="14" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\strings.h" id="15" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\wchar.h" id="16" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\stdlib.h" id="17" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\alloca.h" id="18" stamp="1548165650"  exclude="false"/>
+<Comments>
+<c f="1" b="1" e="4" />
+<c f="1" b="6" e="6" />
+<c f="1" b="8" e="0" />
+<c f="1" b="12" e="12" />
+<c f="1" b="13" e="0" />
+<c f="1" b="14" e="14" />
+<c f="1" b="16" e="0" />
+<c f="1" b="22" e="23" />
+<c f="1" b="24" e="0" />
+<c f="1" b="25" e="26" />
+<c f="1" b="27" e="0" />
+<c f="1" b="44" e="44" />
+<c f="1" b="45" e="0" />
+<c f="1" b="62" e="62" />
+<c f="1" b="63" e="0" />
+<c f="1" b="71" e="71" />
+<c f="1" b="72" e="0" />
+<c f="1" b="75" e="75" />
+<c f="1" b="76" e="0" />
+<c f="1" b="86" e="86" />
+<c f="1" b="87" e="0" />
+<c f="1" b="90" e="90" />
+<c f="1" b="91" e="0" />
+<c f="1" b="98" e="98" />
+<c f="1" b="99" e="0" />
+<c f="1" b="102" e="102" />
+<c f="1" b="103" e="0" />
+<c f="1" b="105" e="105" />
+<c f="1" b="106" e="0" />
+<c f="1" b="107" e="107" />
+<c f="1" b="108" e="0" />
+<c f="1" b="114" e="114" />
+<c f="1" b="115" e="0" />
+<c f="1" b="115" e="115" />
+<c f="1" b="116" e="0" />
+<c f="1" b="129" e="129" />
+<c f="1" b="130" e="0" />
+<c f="1" b="133" e="133" />
+<c f="1" b="134" e="0" />
+<c f="1" b="142" e="142" />
+<c f="1" b="143" e="0" />
+<c f="1" b="152" e="152" />
+<c f="1" b="153" e="0" />
+<c f="1" b="156" e="156" />
+<c f="1" b="157" e="0" />
+<c f="1" b="157" e="157" />
+<c f="1" b="158" e="0" />
+<c f="1" b="171" e="171" />
+<c f="1" b="172" e="0" />
+</Comments>
+<Macros>
+<m f="1" bl="10" bc="1" el="10" ec="1" />
+<m f="1" bl="10" bc="30" el="10" ec="77" />
+<m f="1" bl="10" bc="62" el="10" ec="62" />
+<m f="1" bl="63" bc="7" el="63" ec="7" />
+<m f="1" bl="78" bc="22" el="78" ec="22" />
+<m f="1" bl="79" bc="22" el="79" ec="22" />
+<m f="1" bl="81" bc="21" el="81" ec="21" />
+<m f="1" bl="82" bc="21" el="82" ec="21" />
+<m f="1" bl="87" bc="16" el="87" ec="16" />
+<m f="1" bl="96" bc="22" el="96" ec="22" />
+<m f="1" bl="97" bc="22" el="97" ec="22" />
+<m f="1" bl="98" bc="9" el="98" ec="19" />
+<m f="1" bl="103" bc="19" el="103" ec="19" />
+<m f="1" bl="104" bc="16" el="104" ec="16" />
+<m f="1" bl="105" bc="13" el="105" ec="13" />
+<m f="1" bl="107" bc="13" el="107" ec="21" />
+<m f="1" bl="110" bc="9" el="110" ec="18" />
+<m f="1" bl="111" bc="9" el="111" ec="17" />
+<m f="1" bl="118" bc="13" el="118" ec="21" />
+<m f="1" bl="125" bc="9" el="125" ec="18" />
+<m f="1" bl="126" bc="9" el="126" ec="17" />
+<m f="1" bl="134" bc="7" el="134" ec="7" />
+<m f="1" bl="143" bc="1" el="143" ec="1" />
+<m f="1" bl="146" bc="5" el="146" ec="5" />
+<m f="1" bl="157" bc="5" el="157" ec="15" />
+<m f="1" bl="161" bc="5" el="161" ec="13" />
+<m f="1" bl="162" bc="33" el="162" ec="33" />
+<m f="1" bl="163" bc="69" el="163" ec="69" />
+<m f="1" bl="164" bc="17" el="164" ec="17" />
+<m f="1" bl="164" bc="31" el="164" ec="31" />
+<m f="1" bl="165" bc="17" el="165" ec="17" />
+<m f="1" bl="165" bc="31" el="165" ec="31" />
+<m f="1" bl="166" bc="33" el="166" ec="33" />
+<m f="1" bl="166" bc="69" el="166" ec="69" />
+<m f="1" bl="167" bc="17" el="167" ec="17" />
+<m f="1" bl="167" bc="31" el="167" ec="31" />
+<m f="1" bl="172" bc="7" el="172" ec="7" />
+<m f="1" bl="175" bc="5" el="175" ec="5" />
+<m f="1" bl="180" bc="7" el="180" ec="7" />
+<m f="1" bl="183" bc="5" el="183" ec="5" />
+</Macros></Index>

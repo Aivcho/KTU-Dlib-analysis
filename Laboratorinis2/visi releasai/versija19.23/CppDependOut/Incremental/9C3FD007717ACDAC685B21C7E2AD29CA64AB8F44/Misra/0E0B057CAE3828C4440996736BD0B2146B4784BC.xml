@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\assert.h"><violation beginline="201" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\linker\linker_kernel_1.cpp"><violation beginline="21" begincolumn="11" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="22" begincolumn="11" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="36" begincolumn="11" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="37" begincolumn="11" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="61" begincolumn="18" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="64" begincolumn="17" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="66" begincolumn="18" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="69" begincolumn="17" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="142" begincolumn="17" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="143" begincolumn="17" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="168" begincolumn="13" rule="Rule6-4-2" ruleset="Statements">
+</violation>
+<violation beginline="181" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="194" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="225" begincolumn="13" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="226" begincolumn="13" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="232" begincolumn="9" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="273" begincolumn="20" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="273" begincolumn="32" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="296" begincolumn="13" rule="Rule6-4-2" ruleset="Statements">
+</violation>
+<violation beginline="310" begincolumn="17" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="324" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\linker\linker_kernel_1.h"><violation beginline="90" begincolumn="13" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="84" begincolumn="13" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\sockets\sockets_kernel_1.h"><violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="110" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="133" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="105" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="110" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="133" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="105" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+<violation beginline="136" begincolumn="9" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\threads\threads_kernel_shared.h"><violation beginline="211" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file></cppdepend-plugin>

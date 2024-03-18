@@ -1,0 +1,8 @@
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/PACKAGE.dir
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/INSTALL.dir
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/dlib/CMakeFiles/dlib.dir
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/dlib/CMakeFiles/PACKAGE.dir
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/dlib/CMakeFiles/INSTALL.dir
+C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/dlib/CMakeFiles/ALL_BUILD.dir

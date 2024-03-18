@@ -1,0 +1,6 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\bsp\bsp.cpp" line="85" col="55" msg="implicit conversion loses integer precision: &apos;size_type&apos; (aka &apos;unsigned long long&apos;) to &apos;const unsigned long&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\bsp\bsp.cpp" line="135" col="14" msg="no previous prototype for function &apos;read_thread&apos;" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\bsp\bsp.cpp" line="442" col="67" msg="empty expression statement has no effect; remove unnecessary &apos;;&apos; to silence this warning" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\bsp\bsp.cpp" line="4" col="9" msg="macro is not used" />
+</log>

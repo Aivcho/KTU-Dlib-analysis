@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis1\dlib-19.24.2\dlib\assert.h"><violation beginline="201" begincolumn="5" rule="Rule7-5-4" ruleset="Declarations">
+</violation>
+</file><file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis1\dlib-19.24.2\dlib\base64\base64_kernel_1.cpp"><violation beginline="38" begincolumn="22" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="39" begincolumn="22" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+<violation beginline="45" begincolumn="28" rule="Rule18-4-1" ruleset="Library">
+</violation>
+<violation beginline="46" begincolumn="28" rule="Rule18-4-1" ruleset="Library">
+</violation>
+<violation beginline="50" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="51" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="144" begincolumn="43" rule="Rule4-5-3" ruleset="Expressions">
+</violation>
+<violation beginline="168" begincolumn="9" rule="Rule7-3-4" ruleset="Declarations">
+</violation>
+<violation beginline="192" begincolumn="25" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="197" begincolumn="25" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="202" begincolumn="25" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="205" begincolumn="25" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="315" begincolumn="9" rule="Rule7-3-4" ruleset="Declarations">
+</violation>
+<violation beginline="325" begincolumn="9" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="344" begincolumn="21" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="344" begincolumn="21" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="380" begincolumn="13" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+</file></cppdepend-plugin>

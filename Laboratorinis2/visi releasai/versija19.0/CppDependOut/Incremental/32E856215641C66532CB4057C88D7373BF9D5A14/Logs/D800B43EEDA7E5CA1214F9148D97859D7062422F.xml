@@ -1,0 +1,5 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\timer\timer.cpp" line="186" col="59" msg="declaration requires an exit-time destructor" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\timer\timer.cpp" line="201" col="38" msg="declaration requires a global constructor" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.0\dlib-19.0\dlib\timer\timer.cpp" line="4" col="9" msg="macro is not used" />
+</log>

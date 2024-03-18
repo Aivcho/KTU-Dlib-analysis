@@ -1,0 +1,23 @@
+<Index><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.21\dlib-19.21\dlib\external\zlib\uncompr.c" id="1" stamp="1596925567"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.21\dlib-19.21\dlib\external\zlib\zlib.h" id="2" stamp="1596925567"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.21\dlib-19.21\dlib\external\zlib\zconf.h" id="3" stamp="1596925567"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\limits.h" id="4" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\_mingw.h" id="5" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\msvcrtver.h" id="6" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\w32api.h" id="7" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sdkddkver.h" id="8" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\features.h" id="9" stamp="1553706234"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sys\types.h" id="10" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\stddef.h" id="11" stamp="1547491789"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\stdarg.h" id="12" stamp="1547491789"  exclude="false"/>
+<Comments>
+<c f="1" b="1" e="4" />
+<c f="1" b="6" e="6" />
+<c f="1" b="8" e="0" />
+<c f="1" b="11" e="23" />
+<c f="1" b="24" e="0" />
+<c f="1" b="35" e="35" />
+<c f="1" b="36" e="0" />
+</Comments>
+<Macros>
+<m f="1" bl="24" bc="5" el="24" ec="5" />
+<m f="1" bl="33" bc="23" el="33" ec="23" />
+<m f="1" bl="36" bc="53" el="36" ec="53" />
+<m f="1" bl="40" bc="53" el="40" ec="53" />
+<m f="1" bl="45" bc="11" el="45" ec="30" />
+<m f="1" bl="46" bc="16" el="46" ec="16" />
+<m f="1" bl="48" bc="28" el="48" ec="28" />
+<m f="1" bl="49" bc="16" el="49" ec="16" />
+<m f="1" bl="51" bc="20" el="51" ec="20" />
+<m f="1" bl="51" bc="43" el="51" ec="43" />
+<m f="1" bl="52" bc="20" el="52" ec="20" />
+</Macros></Index>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.3\dlib-19.3\dlib\external\libjpeg\jccolor.cpp"><violation beginline="366" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="367" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="378" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="379" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="384" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="385" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="389" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="390" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="397" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="398" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="399" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="404" begincolumn="12" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="404" begincolumn="12" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="407" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="411" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="412" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="413" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="413" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="416" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="420" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="421" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="425" begincolumn="12" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="425" begincolumn="12" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="428" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="432" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="433" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="434" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="434" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="437" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="441" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="442" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="446" begincolumn="12" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="446" begincolumn="12" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="449" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="453" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="455" begincolumn="7" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+</file></cppdepend-plugin>

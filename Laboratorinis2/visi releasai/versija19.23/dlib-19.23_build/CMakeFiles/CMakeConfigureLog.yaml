@@ -1,0 +1,855 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      The system is: Windows - 10.0.19045 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.9.5+33de0b227 for .NET Framework
+      Build started 3/17/2024 10:28:49 PM.
+      
+      Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\3.29.0-rc4\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
+      PrepareForBuild:
+        Creating directory "Debug\\".
+        Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+        Creating directory "Debug\\CompilerIdC.tlog\\".
+      InitializeBuildStatus:
+        Creating "Debug\\CompilerIdC.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+        Touching "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+      ClCompile:
+        D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TC /FC /errorReport:queue CMakeCCompilerId.c
+        CMakeCCompilerId.c
+      Link:
+        D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdC.lib" /MACHINE:X64 Debug\\CMakeCCompilerId.obj
+        CompilerIdC.vcxproj -> C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\3.29.0-rc4\\CompilerIdC\\CompilerIdC.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_C_COMPILER=D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        Deleting file "Debug\\CompilerIdC.tlog\\unsuccessfulbuild".
+        Touching "Debug\\CompilerIdC.tlog\\CompilerIdC.lastbuildstate".
+      Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\3.29.0-rc4\\CompilerIdC\\CompilerIdC.vcxproj" (default targets).
+      
+      Build succeeded.
+          0 Warning(s)
+          0 Error(s)
+      
+      Time Elapsed 00:00:01.28
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+      
+      The C compiler identification is MSVC, found in:
+        C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/3.29.0-rc4/CompilerIdC/CompilerIdC.exe
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCXXCompiler.cmake:126 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+      Compiler:  
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      MSBuild version 17.9.5+33de0b227 for .NET Framework
+      Build started 3/17/2024 10:28:50 PM.
+      
+      Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\3.29.0-rc4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
+      PrepareForBuild:
+        Creating directory "Debug\\".
+        Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+        Creating directory "Debug\\CompilerIdCXX.tlog\\".
+      InitializeBuildStatus:
+        Creating "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+        Touching "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+      ClCompile:
+        D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /nologo /W0 /WX- /diagnostics:column /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\\\" /Fd"Debug\\vc143.pdb" /external:W0 /Gd /TP /FC /errorReport:queue CMakeCXXCompilerId.cpp
+        CMakeCXXCompilerId.cpp
+      Link:
+        D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:".\\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\\CompilerIdCXX.lib" /MACHINE:X64 Debug\\CMakeCXXCompilerId.obj
+        CompilerIdCXX.vcxproj -> C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\3.29.0-rc4\\CompilerIdCXX\\CompilerIdCXX.exe
+      PostBuildEvent:
+        for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+        :VCEnd
+        CMAKE_CXX_COMPILER=D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\Hostx64\\x64\\cl.exe
+      FinalizeBuildStatus:
+        Deleting file "Debug\\CompilerIdCXX.tlog\\unsuccessfulbuild".
+        Touching "Debug\\CompilerIdCXX.tlog\\CompilerIdCXX.lastbuildstate".
+      Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\3.29.0-rc4\\CompilerIdCXX\\CompilerIdCXX.vcxproj" (default targets).
+      
+      Build succeeded.
+          0 Warning(s)
+          0 Error(s)
+      
+      Time Elapsed 00:00:01.06
+      
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+      
+      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+      
+      The CXX compiler identification is MSVC, found in:
+        C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/3.29.0-rc4/CompilerIdCXX/CompilerIdCXX.exe
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:64 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-i119wl"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-i119wl"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-i119wl'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_dd34e.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:28:51 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-i119wl\\cmTC_dd34e.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_dd34e.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-i119wl\\Debug\\".
+          Creating directory "cmTC_dd34e.dir\\Debug\\cmTC_dd34e.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_dd34e.dir\\Debug\\cmTC_dd34e.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_dd34e.dir\\Debug\\cmTC_dd34e.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dd34e.dir\\Debug\\\\" /Fd"cmTC_dd34e.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dd34e.dir\\Debug\\\\" /Fd"cmTC_dd34e.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          CMakeCCompilerABI.c
+        Link:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-i119wl\\Debug\\cmTC_dd34e.exe" /INCREMENTAL /ILK:"cmTC_dd34e.dir\\Debug\\cmTC_dd34e.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-i119wl/Debug/cmTC_dd34e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-i119wl/Debug/cmTC_dd34e.lib" /MACHINE:X64  /machine:x64 cmTC_dd34e.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_dd34e.vcxproj -> C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-i119wl\\Debug\\cmTC_dd34e.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_dd34e.dir\\Debug\\cmTC_dd34e.tlog\\unsuccessfulbuild".
+          Touching "cmTC_dd34e.dir\\Debug\\cmTC_dd34e.tlog\\cmTC_dd34e.lastbuildstate".
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-i119wl\\cmTC_dd34e.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.28
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:170 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'C': D:/VS studio/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.39.33519/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:207 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Running the C compiler's linker: "D:/VS studio/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.39.33519/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.39.33522.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:64 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    checks:
+      - "Detecting CXX compiler ABI info"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-a0xjmy"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-a0xjmy"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
+    buildResult:
+      variable: "CMAKE_CXX_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-a0xjmy'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_14de0.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:28:53 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-a0xjmy\\cmTC_14de0.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_14de0.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-a0xjmy\\Debug\\".
+          Creating directory "cmTC_14de0.dir\\Debug\\cmTC_14de0.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_14de0.dir\\Debug\\cmTC_14de0.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_14de0.dir\\Debug\\cmTC_14de0.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_14de0.dir\\Debug\\\\" /Fd"cmTC_14de0.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_14de0.dir\\Debug\\\\" /Fd"cmTC_14de0.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          CMakeCXXCompilerABI.cpp
+        Link:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-a0xjmy\\Debug\\cmTC_14de0.exe" /INCREMENTAL /ILK:"cmTC_14de0.dir\\Debug\\cmTC_14de0.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-a0xjmy/Debug/cmTC_14de0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-a0xjmy/Debug/cmTC_14de0.lib" /MACHINE:X64  /machine:x64 cmTC_14de0.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_14de0.vcxproj -> C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-a0xjmy\\Debug\\cmTC_14de0.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_14de0.dir\\Debug\\cmTC_14de0.tlog\\unsuccessfulbuild".
+          Touching "cmTC_14de0.dir\\Debug\\cmTC_14de0.tlog\\cmTC_14de0.lastbuildstate".
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-a0xjmy\\cmTC_14de0.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.19
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:170 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Parsed CXX implicit link information:
+        link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?|link\\.exe|lld-link(\\.exe)?))("|,| |$)]
+        linker tool for 'CXX': D:/VS studio/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.39.33519/bin/HostX64/x64/link.exe
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CMakeDetermineLinkerId.cmake:40 (message)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeDetermineCompilerABI.cmake:207 (cmake_determine_linker_id)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:3 (project)"
+    message: |
+      Running the CXX compiler's linker: "D:/VS studio/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.39.33519/bin/HostX64/x64/link.exe" "-v"
+      Microsoft (R) Incremental Linker Version 14.39.33522.0
+      Copyright (C) Microsoft Corporation.  All rights reserved.
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckTypeSize.cmake:250 (check_include_file)"
+      - "dlib/cmake_utils/set_compiler_specific_options.cmake:91 (check_type_size)"
+      - "dlib/CMakeLists.txt:33 (include)"
+    checks:
+      - "Looking for sys/types.h"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-gjy1yc"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-gjy1yc"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SYS_TYPES_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-gjy1yc'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c6b14.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:28:55 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-gjy1yc\\cmTC_c6b14.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_c6b14.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-gjy1yc\\Debug\\".
+          Creating directory "cmTC_c6b14.dir\\Debug\\cmTC_c6b14.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_c6b14.dir\\Debug\\cmTC_c6b14.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_c6b14.dir\\Debug\\cmTC_c6b14.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c6b14.dir\\Debug\\\\" /Fd"cmTC_c6b14.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-gjy1yc\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c6b14.dir\\Debug\\\\" /Fd"cmTC_c6b14.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-gjy1yc\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Link:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-gjy1yc\\Debug\\cmTC_c6b14.exe" /INCREMENTAL /ILK:"cmTC_c6b14.dir\\Debug\\cmTC_c6b14.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-gjy1yc/Debug/cmTC_c6b14.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-gjy1yc/Debug/cmTC_c6b14.lib" /MACHINE:X64  /machine:x64 cmTC_c6b14.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_c6b14.vcxproj -> C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-gjy1yc\\Debug\\cmTC_c6b14.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_c6b14.dir\\Debug\\cmTC_c6b14.tlog\\unsuccessfulbuild".
+          Touching "cmTC_c6b14.dir\\Debug\\cmTC_c6b14.tlog\\cmTC_c6b14.lastbuildstate".
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-gjy1yc\\cmTC_c6b14.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.03
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckTypeSize.cmake:251 (check_include_file)"
+      - "dlib/cmake_utils/set_compiler_specific_options.cmake:91 (check_type_size)"
+      - "dlib/CMakeLists.txt:33 (include)"
+    checks:
+      - "Looking for stdint.h"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-iwrdxv"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-iwrdxv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STDINT_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-iwrdxv'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_479a9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:28:56 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-iwrdxv\\cmTC_479a9.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_479a9.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-iwrdxv\\Debug\\".
+          Creating directory "cmTC_479a9.dir\\Debug\\cmTC_479a9.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_479a9.dir\\Debug\\cmTC_479a9.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_479a9.dir\\Debug\\cmTC_479a9.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_479a9.dir\\Debug\\\\" /Fd"cmTC_479a9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-iwrdxv\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_479a9.dir\\Debug\\\\" /Fd"cmTC_479a9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-iwrdxv\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Link:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-iwrdxv\\Debug\\cmTC_479a9.exe" /INCREMENTAL /ILK:"cmTC_479a9.dir\\Debug\\cmTC_479a9.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-iwrdxv/Debug/cmTC_479a9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-iwrdxv/Debug/cmTC_479a9.lib" /MACHINE:X64  /machine:x64 cmTC_479a9.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_479a9.vcxproj -> C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-iwrdxv\\Debug\\cmTC_479a9.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_479a9.dir\\Debug\\cmTC_479a9.tlog\\unsuccessfulbuild".
+          Touching "cmTC_479a9.dir\\Debug\\cmTC_479a9.tlog\\cmTC_479a9.lastbuildstate".
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-iwrdxv\\cmTC_479a9.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.27
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckIncludeFile.cmake:90 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckTypeSize.cmake:252 (check_include_file)"
+      - "dlib/cmake_utils/set_compiler_specific_options.cmake:91 (check_type_size)"
+      - "dlib/CMakeLists.txt:33 (include)"
+    checks:
+      - "Looking for stddef.h"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-617s1x"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-617s1x"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_STDDEF_H"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-617s1x'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_e469d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:28:58 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-617s1x\\cmTC_e469d.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_e469d.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-617s1x\\Debug\\".
+          Creating directory "cmTC_e469d.dir\\Debug\\cmTC_e469d.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_e469d.dir\\Debug\\cmTC_e469d.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_e469d.dir\\Debug\\cmTC_e469d.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e469d.dir\\Debug\\\\" /Fd"cmTC_e469d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-617s1x\\CheckIncludeFile.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e469d.dir\\Debug\\\\" /Fd"cmTC_e469d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-617s1x\\CheckIncludeFile.c"
+          CheckIncludeFile.c
+        Link:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-617s1x\\Debug\\cmTC_e469d.exe" /INCREMENTAL /ILK:"cmTC_e469d.dir\\Debug\\cmTC_e469d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-617s1x/Debug/cmTC_e469d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-617s1x/Debug/cmTC_e469d.lib" /MACHINE:X64  /machine:x64 cmTC_e469d.dir\\Debug\\CheckIncludeFile.obj
+          cmTC_e469d.vcxproj -> C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-617s1x\\Debug\\cmTC_e469d.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_e469d.dir\\Debug\\cmTC_e469d.tlog\\unsuccessfulbuild".
+          Touching "cmTC_e469d.dir\\Debug\\cmTC_e469d.tlog\\cmTC_e469d.lastbuildstate".
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-617s1x\\cmTC_e469d.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.00
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckTypeSize.cmake:146 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckTypeSize.cmake:271 (__check_type_size_impl)"
+      - "dlib/cmake_utils/set_compiler_specific_options.cmake:91 (check_type_size)"
+      - "dlib/CMakeLists.txt:33 (include)"
+    checks:
+      - "Check size of void*"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-dxs9eg"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-dxs9eg"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "HAVE_SIZE_OF_VOID_PTR"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-dxs9eg'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_16559.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:28:59 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-dxs9eg\\cmTC_16559.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_16559.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-dxs9eg\\Debug\\".
+          Creating directory "cmTC_16559.dir\\Debug\\cmTC_16559.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_16559.dir\\Debug\\cmTC_16559.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_16559.dir\\Debug\\cmTC_16559.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_16559.dir\\Debug\\\\" /Fd"cmTC_16559.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-dxs9eg\\SIZE_OF_VOID_PTR.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_16559.dir\\Debug\\\\" /Fd"cmTC_16559.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-dxs9eg\\SIZE_OF_VOID_PTR.c"
+          SIZE_OF_VOID_PTR.c
+        Link:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-dxs9eg\\Debug\\cmTC_16559.exe" /INCREMENTAL /ILK:"cmTC_16559.dir\\Debug\\cmTC_16559.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-dxs9eg/Debug/cmTC_16559.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-dxs9eg/Debug/cmTC_16559.lib" /MACHINE:X64  /machine:x64 cmTC_16559.dir\\Debug\\SIZE_OF_VOID_PTR.obj
+          cmTC_16559.vcxproj -> C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-dxs9eg\\Debug\\cmTC_16559.exe
+        FinalizeBuildStatus:
+          Deleting file "cmTC_16559.dir\\Debug\\cmTC_16559.tlog\\unsuccessfulbuild".
+          Touching "cmTC_16559.dir\\Debug\\cmTC_16559.tlog\\cmTC_16559.lastbuildstate".
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-dxs9eg\\cmTC_16559.vcxproj" (default targets).
+        
+        Build succeeded.
+            0 Warning(s)
+            0 Error(s)
+        
+        Time Elapsed 00:00:01.28
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/cmake_utils/check_if_neon_available.cmake:14 (try_compile)"
+      - "dlib/CMakeLists.txt:480 (include)"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23/dlib/cmake_utils/test_for_neon"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/dlib/neon_test_build"
+    buildResult:
+      variable: "test_for_neon_worked"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/dlib/neon_test_build'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" ALL_BUILD.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:29:01 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (1) is building "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ZERO_CHECK.vcxproj" (2) on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "x64\\Debug\\ZERO_CHECK\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "x64\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\".
+        InitializeBuildStatus:
+          Creating "x64\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "x64\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild".
+        CustomBuild:
+          1>Checking Build System
+        FinalizeBuildStatus:
+          Deleting file "x64\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild".
+          Touching "x64\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\ZERO_CHECK.lastbuildstate".
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ZERO_CHECK.vcxproj" (default targets).
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (1) is building "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj" (3) on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "neon_test.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\Debug\\".
+          Creating directory "neon_test.dir\\Debug\\neon_test.tlog\\".
+        InitializeBuildStatus:
+          Creating "neon_test.dir\\Debug\\neon_test.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "neon_test.dir\\Debug\\neon_test.tlog\\unsuccessfulbuild".
+        CustomBuild:
+          Building Custom Rule C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 ProgramÅ³ prieÅ¾iÅ«ra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23/dlib/cmake_utils/test_for_neon/CMakeLists.txt
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"neon_test.dir\\Debug\\\\" /Fd"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\Debug\\neon_test.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp"
+          neon_test.cpp
+        C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp(3,1): error C1189: #error:  "No NEON" [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj]
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj" (default targets) -- FAILED.
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (default target) (1) ->
+        "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj" (default target) (3) ->
+        (ClCompile target) -> 
+          C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp(3,1): error C1189: #error:  "No NEON" [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:01.18
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckFunctionExists.cmake:86 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindBLAS.cmake:372 (check_function_exists)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindBLAS.cmake:416 (check_blas_libraries)"
+      - "dlib/cmake_utils/find_blas.cmake:431 (find_package)"
+      - "dlib/CMakeLists.txt:569 (include)"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-uxn1ka"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-uxn1ka"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "BLAS_WORKS"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-uxn1ka'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_1e182.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:29:03 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\cmTC_1e182.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_1e182.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\Debug\\".
+          Creating directory "cmTC_1e182.dir\\Debug\\cmTC_1e182.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_1e182.dir\\Debug\\cmTC_1e182.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_1e182.dir\\Debug\\cmTC_1e182.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sgemm_ /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1e182.dir\\Debug\\\\" /Fd"cmTC_1e182.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sgemm_ /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1e182.dir\\Debug\\\\" /Fd"cmTC_1e182.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\Debug\\cmTC_1e182.exe" /INCREMENTAL /ILK:"cmTC_1e182.dir\\Debug\\cmTC_1e182.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-uxn1ka/Debug/cmTC_1e182.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-uxn1ka/Debug/cmTC_1e182.lib" /MACHINE:X64  /machine:x64 cmTC_1e182.dir\\Debug\\CheckFunctionExists.obj
+        CheckFunctionExists.obj : error LNK2019: unresolved external symbol sgemm_ referenced in function main [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\cmTC_1e182.vcxproj]
+        C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\Debug\\cmTC_1e182.exe : fatal error LNK1120: 1 unresolved externals [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\cmTC_1e182.vcxproj]
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\cmTC_1e182.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\cmTC_1e182.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          CheckFunctionExists.obj : error LNK2019: unresolved external symbol sgemm_ referenced in function main [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\cmTC_1e182.vcxproj]
+          C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\Debug\\cmTC_1e182.exe : fatal error LNK1120: 1 unresolved externals [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-uxn1ka\\cmTC_1e182.vcxproj]
+        
+            0 Warning(s)
+            2 Error(s)
+        
+        Time Elapsed 00:00:00.94
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake:101 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckCSourceCompiles.cmake:52 (cmake_check_source_compiles)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindThreads.cmake:97 (CHECK_C_SOURCE_COMPILES)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindThreads.cmake:163 (_threads_check_libc)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindBLAS.cmake:468 (find_package)"
+      - "dlib/cmake_utils/find_blas.cmake:431 (find_package)"
+      - "dlib/CMakeLists.txt:569 (include)"
+    checks:
+      - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-4m3iy7"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-4m3iy7"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "CMAKE_HAVE_LIBC_PTHREAD"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-4m3iy7'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_0667f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:29:04 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\cmTC_0667f.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_0667f.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\Debug\\".
+          Creating directory "cmTC_0667f.dir\\Debug\\cmTC_0667f.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_0667f.dir\\Debug\\cmTC_0667f.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_0667f.dir\\Debug\\cmTC_0667f.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0667f.dir\\Debug\\\\" /Fd"cmTC_0667f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\src.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_0667f.dir\\Debug\\\\" /Fd"cmTC_0667f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\src.c"
+          src.c
+        C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\cmTC_0667f.vcxproj]
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\cmTC_0667f.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\cmTC_0667f.vcxproj" (default target) (1) ->
+        (ClCompile target) -> 
+          C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-4m3iy7\\cmTC_0667f.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.69
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindThreads.cmake:175 (_threads_check_lib)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindBLAS.cmake:468 (find_package)"
+      - "dlib/cmake_utils/find_blas.cmake:431 (find_package)"
+      - "dlib/CMakeLists.txt:569 (include)"
+    checks:
+      - "Looking for pthread_create in pthreads"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-lqnvrv"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-lqnvrv"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREADS_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-lqnvrv'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_3a1b6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:29:05 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-lqnvrv\\cmTC_3a1b6.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_3a1b6.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-lqnvrv\\Debug\\".
+          Creating directory "cmTC_3a1b6.dir\\Debug\\cmTC_3a1b6.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_3a1b6.dir\\Debug\\cmTC_3a1b6.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_3a1b6.dir\\Debug\\cmTC_3a1b6.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3a1b6.dir\\Debug\\\\" /Fd"cmTC_3a1b6.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-lqnvrv\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3a1b6.dir\\Debug\\\\" /Fd"cmTC_3a1b6.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-lqnvrv\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-lqnvrv\\Debug\\cmTC_3a1b6.exe" /INCREMENTAL /ILK:"cmTC_3a1b6.dir\\Debug\\cmTC_3a1b6.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-lqnvrv/Debug/cmTC_3a1b6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-lqnvrv/Debug/cmTC_3a1b6.lib" /MACHINE:X64  /machine:x64 cmTC_3a1b6.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-lqnvrv\\cmTC_3a1b6.vcxproj]
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-lqnvrv\\cmTC_3a1b6.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-lqnvrv\\cmTC_3a1b6.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-lqnvrv\\cmTC_3a1b6.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.99
+        
+      exitCode: 1
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/CheckLibraryExists.cmake:69 (try_compile)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindThreads.cmake:112 (CHECK_LIBRARY_EXISTS)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindThreads.cmake:176 (_threads_check_lib)"
+      - "C:/Program Files/CMake/share/cmake-3.29/Modules/FindBLAS.cmake:468 (find_package)"
+      - "dlib/cmake_utils/find_blas.cmake:431 (find_package)"
+      - "dlib/CMakeLists.txt:569 (include)"
+    checks:
+      - "Looking for pthread_create in pthread"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-9dro8n"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-9dro8n"
+    cmakeVariables:
+      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
+    buildResult:
+      variable: "CMAKE_HAVE_PTHREAD_CREATE"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-9dro8n'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_01289.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:29:07 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-9dro8n\\cmTC_01289.vcxproj" on node 1 (default targets).
+        PrepareForBuild:
+          Creating directory "cmTC_01289.dir\\Debug\\".
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+          Creating directory "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-9dro8n\\Debug\\".
+          Creating directory "cmTC_01289.dir\\Debug\\cmTC_01289.tlog\\".
+        InitializeBuildStatus:
+          Creating "cmTC_01289.dir\\Debug\\cmTC_01289.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_01289.dir\\Debug\\cmTC_01289.tlog\\unsuccessfulbuild".
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_01289.dir\\Debug\\\\" /Fd"cmTC_01289.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-9dro8n\\CheckFunctionExists.c"
+          Microsoft (R) C/C++ Optimizing Compiler Version 19.39.33522 for x64
+          Copyright (C) Microsoft Corporation.  All rights reserved.
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_01289.dir\\Debug\\\\" /Fd"cmTC_01289.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-9dro8n\\CheckFunctionExists.c"
+          CheckFunctionExists.c
+        Link:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-9dro8n\\Debug\\cmTC_01289.exe" /INCREMENTAL /ILK:"cmTC_01289.dir\\Debug\\cmTC_01289.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-9dro8n/Debug/cmTC_01289.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programu prieziura ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/CMakeFiles/CMakeScratch/TryCompile-9dro8n/Debug/cmTC_01289.lib" /MACHINE:X64  /machine:x64 cmTC_01289.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-9dro8n\\cmTC_01289.vcxproj]
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-9dro8n\\cmTC_01289.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-9dro8n\\cmTC_01289.vcxproj" (default target) (1) ->
+        (Link target) -> 
+          LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\CMakeFiles\\CMakeScratch\\TryCompile-9dro8n\\cmTC_01289.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.81
+        
+      exitCode: 1
+...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "dlib/cmake_utils/check_if_neon_available.cmake:14 (try_compile)"
+      - "dlib/CMakeLists.txt:480 (include)"
+    directories:
+      source: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23/dlib/cmake_utils/test_for_neon"
+      binary: "C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Program\u0173 prie\u017ei\u016bra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/dlib/neon_test_build"
+    buildResult:
+      variable: "test_for_neon_worked"
+      cached: true
+      stdout: |
+        Change Dir: 'C:/Users/Dell/Desktop/Antras kursas/Antras semestras/T120M013 Programų priežiūra ir tobulinimas/Laboratorinis2/visi releasai/versija19.23/dlib-19.23_build/dlib/neon_test_build'
+        
+        Run Build Command(s): "D:/VS studio/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/amd64/MSBuild.exe" ALL_BUILD.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        MSBuild version 17.9.5+33de0b227 for .NET Framework
+        Build started 3/17/2024 10:29:12 PM.
+        
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (1) is building "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ZERO_CHECK.vcxproj" (2) on node 1 (default targets).
+        PrepareForBuild:
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+        InitializeBuildStatus:
+          Creating "x64\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "x64\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild".
+        CustomBuild:
+          All outputs are up-to-date.
+        FinalizeBuildStatus:
+          Deleting file "x64\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\unsuccessfulbuild".
+          Touching "x64\\Debug\\ZERO_CHECK\\ZERO_CHECK.tlog\\ZERO_CHECK.lastbuildstate".
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ZERO_CHECK.vcxproj" (default targets).
+        Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (1) is building "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj" (3) on node 1 (default targets).
+        PrepareForBuild:
+          Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+        InitializeBuildStatus:
+          Touching "neon_test.dir\\Debug\\neon_test.tlog\\unsuccessfulbuild".
+        CustomBuild:
+          All outputs are up-to-date.
+        ClCompile:
+          D:\\VS studio\\Microsoft Visual Studio\\2022\\Professional\\VC\\Tools\\MSVC\\14.39.33519\\bin\\HostX64\\x64\\CL.exe /c /Zi /nologo /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"neon_test.dir\\Debug\\\\" /Fd"C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\Debug\\neon_test.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp"
+          neon_test.cpp
+        C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp(3,1): error C1189: #error:  "No NEON" [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj]
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj" (default targets) -- FAILED.
+        Done Building Project "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (default targets) -- FAILED.
+        
+        Build FAILED.
+        
+        "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\ALL_BUILD.vcxproj" (default target) (1) ->
+        "C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj" (default target) (3) ->
+        (ClCompile target) -> 
+          C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23\\dlib\\cmake_utils\\test_for_neon\\neon_test.cpp(3,1): error C1189: #error:  "No NEON" [C:\\Users\\Dell\\Desktop\\Antras kursas\\Antras semestras\\T120M013 Programu prieziura ir tobulinimas\\Laboratorinis2\\visi releasai\\versija19.23\\dlib-19.23_build\\dlib\\neon_test_build\\neon_test.vcxproj]
+        
+            0 Warning(s)
+            1 Error(s)
+        
+        Time Elapsed 00:00:00.82
+        
+      exitCode: 1
+...

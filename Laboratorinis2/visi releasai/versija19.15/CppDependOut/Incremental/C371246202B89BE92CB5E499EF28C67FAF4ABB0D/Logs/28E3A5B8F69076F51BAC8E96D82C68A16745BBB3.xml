@@ -1,0 +1,4 @@
+<log>
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.15\dlib-19.15\dlib\external\libpng\arm\arm_init.c" line="15" col="9" msg="macro name is a reserved identifier" />
+ <error level="warning" id="clang-tidy" file="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.15\dlib-19.15\dlib\external\libpng\arm\arm_init.c" line="15" col="9" msg="macro is not used" />
+</log>

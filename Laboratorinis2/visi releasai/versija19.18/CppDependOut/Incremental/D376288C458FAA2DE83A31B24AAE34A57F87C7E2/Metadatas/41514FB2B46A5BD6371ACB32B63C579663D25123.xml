@@ -1,0 +1,628 @@
+<Index><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\gui_core\gui_core_kernel_1.cpp" id="2" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\platform.h" id="34" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\gui_core\gui_core_kernel_1.h" id="1" stamp="1569189457"  exclude="false" include="true" bind="true"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\string" id="35" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\c++config.h" id="36" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\os_defines.h" id="37" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\cpu_defines.h" id="38" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stringfwd.h" id="4" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\memoryfwd.h" id="5" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\char_traits.h" id="6" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_algobase.h" id="39" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\functexcept.h" id="40" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\exception_defines.h" id="41" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\cpp_type_traits.h" id="42" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ext\type_traits.h" id="43" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ext\numeric_traits.h" id="44" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_pair.h" id="45" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\move.h" id="46" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\concept_check.h" id="47" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\type_traits" id="48" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_iterator_base_types.h" id="49" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_iterator_base_funcs.h" id="50" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\debug\assertions.h" id="51" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_iterator.h" id="7" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\ptr_traits.h" id="52" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\debug\debug.h" id="53" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\predefined_ops.h" id="54" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\postypes.h" id="55" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cwchar" id="56" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\wchar.h" id="57" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\_mingw.h" id="58" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\msvcrtver.h" id="59" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\w32api.h" id="60" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sdkddkver.h" id="61" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\features.h" id="62" stamp="1553706234"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\wctype.h" id="63" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\stddef.h" id="64" stamp="1547491789"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sys\types.h" id="65" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\stdio.h" id="66" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\stdlib.h" id="67" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\direct.h" id="68" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sys\stat.h" id="69" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\conio.h" id="70" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\io.h" id="71" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\stdint.h" id="72" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\time.h" id="73" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\locale.h" id="74" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\process.h" id="75" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cstdint" id="76" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\allocator.h" id="9" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\c++allocator.h" id="77" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ext\new_allocator.h" id="78" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\new" id="79" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\exception" id="80" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\exception.h" id="8" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\exception_ptr.h" id="81" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\cxxabi_init_exception.h" id="82" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\typeinfo" id="83" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\hash_bytes.h" id="84" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\nested_exception.h" id="85" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\localefwd.h" id="86" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\c++locale.h" id="87" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\clocale" id="88" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\iosfwd" id="89" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cctype" id="90" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\ctype.h" id="91" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\ostream_insert.h" id="92" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\cxxabi_forced.h" id="93" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_function.h" id="94" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\backward\binders.h" id="95" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\range_access.h" id="96" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\initializer_list" id="97" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\basic_string.h" id="10" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ext\atomicity.h" id="98" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\gthr.h" id="99" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\gthr-default.h" id="100" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\errno.h" id="101" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\atomic_word.h" id="102" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ext\alloc_traits.h" id="103" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\alloc_traits.h" id="104" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\string_view" id="105" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\limits" id="106" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\functional_hash.h" id="107" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\string_view.tcc" id="108" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ext\string_conversions.h" id="109" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cstdlib" id="110" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\stdlib.h" id="111" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\cstdlib" id="112" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\std_abs.h" id="28" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cstdio" id="113" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cerrno" id="114" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\basic_string.tcc" id="115" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\windows_magic.h" id="116" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\windows.h" id="117" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\stdarg.h" id="118" stamp="1547491789"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\windef.h" id="3" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winnt.h" id="119" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winerror.h" id="120" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\string.h" id="121" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\strings.h" id="122" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\basetsd.h" id="123" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\pshpack4.h" id="124" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\poppack.h" id="125" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\wincon.h" id="126" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winbase.h" id="29" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\wingdi.h" id="11" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winuser.h" id="12" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\dbt.h" id="127" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winnls.h" id="128" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winver.h" id="129" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winnetwk.h" id="130" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winreg.h" id="131" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\reason.h" id="132" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winsvc.h" id="133" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\cderr.h" id="134" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\dde.h" id="135" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\ddeml.h" id="136" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\dlgs.h" id="137" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\imm.h" id="13" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\lzexpand.h" id="138" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\mmsystem.h" id="139" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\nb30.h" id="140" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\rpc.h" id="141" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\rpcdce.h" id="142" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\basetyps.h" id="143" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\rpcdcep.h" id="144" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\rpcnsi.h" id="145" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\rpcnterr.h" id="146" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\shellapi.h" id="147" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\pshpack2.h" id="148" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winperf.h" id="149" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\commdlg.h" id="150" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\unknwn.h" id="151" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\objfwd.h" id="152" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\wtypes.h" id="153" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\rpcndr.h" id="154" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\rpcnsip.h" id="155" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\prsht.h" id="156" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winspool.h" id="157" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\_winsock.h" id="158" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winsock2.h" id="159" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\winsock.h" id="160" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sys\bsdtypes.h" id="161" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sys\time.h" id="162" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\nspapi.h" id="163" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\windowsx.h" id="164" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\commctrl.h" id="30" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\gui_core\gui_core_kernel_abstract.h" id="165" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\algs.h" id="166" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\algorithm" id="167" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\utility" id="168" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_relops.h" id="169" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_algo.h" id="31" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\algorithmfwd.h" id="170" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_heap.h" id="171" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_tempbuf.h" id="172" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_construct.h" id="173" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\uniform_int_dist.h" id="174" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\assert.h" id="175" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\config.h" id="176" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\sstream" id="177" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\istream" id="178" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ios" id="179" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\ios_base.h" id="180" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\locale_classes.h" id="181" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\locale_classes.tcc" id="182" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\system_error" id="183" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\error_constants.h" id="184" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\stdexcept" id="185" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\streambuf" id="186" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\streambuf.tcc" id="187" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\basic_ios.h" id="188" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\locale_facets.h" id="189" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cwctype" id="190" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\ctype_base.h" id="191" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\streambuf_iterator.h" id="192" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\ctype_inline.h" id="193" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\locale_facets.tcc" id="194" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\basic_ios.tcc" id="195" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ostream" id="196" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\ostream.tcc" id="197" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\istream.tcc" id="198" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\sstream.tcc" id="199" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\error.h" id="15" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\iostream" id="200" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cassert" id="201" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\assert.h" id="202" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\stack_trace.h" id="203" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\noncopyable.h" id="204" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\enable_if.h" id="205" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\uintn.h" id="206" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\numeric_constants.h" id="207" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\memory_manager_stateless\memory_manager_stateless_kernel_1.h" id="208" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\memory_manager_stateless\memory_manager_stateless_kernel_abstract.h" id="209" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\memory" id="210" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_uninitialized.h" id="211" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_raw_storage_iter.h" id="212" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ext\concurrence.h" id="213" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\uses_allocator.h" id="214" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\unique_ptr.h" id="215" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tuple" id="216" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\array" id="217" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\invoke.h" id="218" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\shared_ptr.h" id="17" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\shared_ptr_base.h" id="16" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\allocated_ptr.h" id="219" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\refwrap.h" id="220" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ext\aligned_buffer.h" id="221" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\shared_ptr_atomic.h" id="222" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\atomic_base.h" id="223" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\atomic_lockfree_defines.h" id="224" stamp="1547494863"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\backward\auto_ptr.h" id="225" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\sync_extension.h" id="226" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\sync_extension\sync_extension_kernel_1.h" id="24" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads.h" id="227" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\threads_kernel.h" id="228" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\windows.h" id="229" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\threads_kernel_1.h" id="14" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\threads_kernel_abstract.h" id="230" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\condition_variable" id="231" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\chrono" id="232" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ratio" id="233" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\ctime" id="234" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\parse_numbers.h" id="235" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\std_mutex.h" id="236" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mutex" id="237" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\std_function.h" id="238" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\threads_kernel_shared.h" id="33" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\auto_mutex_extension.h" id="19" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\rmutex_extension.h" id="18" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\rmutex_extension_abstract.h" id="239" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\read_write_mutex_extension.h" id="240" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\read_write_mutex_extension_abstract.h" id="241" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\auto_mutex_extension_abstract.h" id="242" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\binary_search_tree.h" id="243" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\binary_search_tree\binary_search_tree_kernel_1.h" id="21" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\binary_search_tree\binary_search_tree_kernel_abstract.h" id="244" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\interfaces\map_pair.h" id="245" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\interfaces\enumerable.h" id="246" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\interfaces\remover.h" id="247" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\functional" id="248" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\unordered_map" id="249" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\hashtable.h" id="250" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\hashtable_policy.h" id="251" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\node_handle.h" id="252" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\optional" id="253" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\enable_special_members.h" id="254" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\unordered_map.h" id="255" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\vector" id="256" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_vector.h" id="20" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_bvector.h" id="257" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\vector.tcc" id="258" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\serialize.h" id="259" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\iomanip" id="260" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\locale" id="261" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\locale_facets_nonio.h" id="262" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\time_members.h" id="263" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\messages_members.h" id="264" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\codecvt.h" id="265" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\locale_facets_nonio.tcc" id="266" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\locale_conv.h" id="267" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\quoted_string.h" id="268" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cstddef" id="269" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\fstream" id="270" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\basic_file.h" id="271" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\mingw32\bits\c++io.h" id="272" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\fstream.tcc" id="273" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\deque" id="274" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_deque.h" id="275" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\deque.tcc" id="276" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\complex" id="277" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cmath" id="278" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\math.h" id="279" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\cmath" id="280" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\specfun.h" id="281" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\gamma.tcc" id="282" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\special_function_util.h" id="283" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\bessel_function.tcc" id="284" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\beta_function.tcc" id="285" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\ell_integral.tcc" id="286" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\exp_integral.tcc" id="287" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\hypergeometric.tcc" id="288" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\legendre_function.tcc" id="289" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\modified_bessel_func.tcc" id="290" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\poly_hermite.tcc" id="291" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\poly_laguerre.tcc" id="292" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\tr1\riemann_zeta.tcc" id="293" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\map" id="294" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_tree.h" id="295" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_map.h" id="296" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_multimap.h" id="297" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\set" id="298" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_set.h" id="299" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stl_multiset.h" id="300" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\unicode.h" id="301" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\unicode\unicode.h" id="32" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\unicode\unicode_abstract.h" id="302" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\cstring" id="303" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\byte_orderer.h" id="304" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\byte_orderer\byte_orderer_kernel_1.h" id="305" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\byte_orderer\byte_orderer_kernel_abstract.h" id="306" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\float_details.h" id="307" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\binary_search_tree\binary_search_tree_kernel_2.h" id="308" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\binary_search_tree\binary_search_tree_kernel_c.h" id="309" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\member_function_pointer.h" id="310" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\member_function_pointer\member_function_pointer_kernel_1.h" id="311" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\member_function_pointer\member_function_pointer_kernel_abstract.h" id="312" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\member_function_pointer\make_mfp.h" id="313" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\member_function_pointer\make_mfp_abstract.h" id="314" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\memory_manager.h" id="315" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\memory_manager\memory_manager_kernel_1.h" id="316" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\memory_manager\memory_manager_kernel_abstract.h" id="317" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\memory_manager\memory_manager_kernel_2.h" id="318" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\memory_manager\memory_manager_kernel_3.h" id="319" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\queue.h" id="320" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\queue\queue_kernel_1.h" id="321" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\queue\queue_kernel_abstract.h" id="322" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\queue\queue_kernel_2.h" id="323" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\queue\queue_kernel_c.h" id="324" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\queue\queue_sort_1.h" id="325" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\queue\queue_sort_abstract.h" id="326" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\sort.h" id="327" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\set.h" id="328" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\set\set_kernel_1.h" id="329" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\set\set_kernel_abstract.h" id="330" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\set\set_kernel_c.h" id="331" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\set\set_compare_1.h" id="332" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\set\set_compare_abstract.h" id="333" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\test_for_odr_violations.h" id="334" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\auto_unlock_extension.h" id="335" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\auto_unlock_extension_abstract.h" id="336" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\create_new_thread_extension.h" id="337" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\create_new_thread_extension_abstract.h" id="338" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\multithreaded_object_extension.h" id="339" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\multithreaded_object_extension_abstract.h" id="340" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\rsignaler_extension.h" id="22" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\rsignaler_extension_abstract.h" id="341" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\map.h" id="342" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\map\map_kernel_1.h" id="343" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\map\map_kernel_abstract.h" id="344" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\map\map_kernel_c.h" id="345" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\threaded_object_extension.h" id="23" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\threaded_object_extension_abstract.h" id="346" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\thread_specific_data_extension.h" id="347" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\thread_specific_data_extension_abstract.h" id="348" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\thread_function_extension.h" id="349" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\thread_function_extension_abstract.h" id="350" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\thread_pool_extension.h" id="351" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\thread" id="352" stamp="1547494862"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\thread_pool_extension_abstract.h" id="353" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\bound_function_pointer.h" id="354" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\bound_function_pointer\bound_function_pointer_kernel_1.h" id="355" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\bound_function_pointer\bound_function_pointer_kernel_abstract.h" id="356" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\array.h" id="357" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\array\array_kernel.h" id="358" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\array\array_kernel_abstract.h" id="359" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\is_kind.h" id="360" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\array\array_tools.h" id="361" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\array\array_tools_abstract.h" id="362" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\parallel_for_extension.h" id="363" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\parallel_for_extension_abstract.h" id="364" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\console_progress_indicator.h" id="365" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\async.h" id="366" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\threads\async_abstract.h" id="367" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\future" id="368" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\atomic" id="369" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\atomic_futex.h" id="370" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\sync_extension\sync_extension_kernel_abstract.h" id="371" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\geometry\rectangle.h" id="25" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\geometry\rectangle_abstract.h" id="372" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\geometry\vector.h" id="373" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\geometry\vector_abstract.h" id="374" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\matrix\matrix.h" id="375" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\matrix\matrix_exp.h" id="376" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\matrix\matrix_fwd.h" id="377" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\matrix\matrix_exp_abstract.h" id="378" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\iterator" id="379" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\bits\stream_iterator.h" id="380" stamp="1547494858"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\matrix\matrix_abstract.h" id="381" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\matrix\matrix_data_layout.h" id="382" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\matrix\matrix_data_layout_abstract.h" id="383" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\matrix\matrix_assign_fwd.h" id="384" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\matrix\matrix_op.h" id="385" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\image_processing\generic_image.h" id="386" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\pixel.h" id="387" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\smart_pointers\shared_ptr_thread_safe.h" id="26" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\smart_pointers\shared_ptr_thread_safe_abstract.h" id="388" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\logger.h" id="389" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\logger\logger_kernel_1.h" id="27" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\misc_api.h" id="390" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\misc_api\windows.h" id="391" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\misc_api\misc_api_kernel_1.h" id="392" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\misc_api\misc_api_kernel_abstract.h" id="393" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\misc_api\misc_api_shared.h" id="394" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\logger\logger_kernel_abstract.h" id="395" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\logger\extra_logger_headers.h" id="396" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\logger\logger_config_file.h" id="397" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\config_reader.h" id="398" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\config_reader\config_reader_kernel_1.h" id="399" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\config_reader\config_reader_kernel_abstract.h" id="400" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\stl_checked\std_vector_c.h" id="401" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\stl_checked\std_vector_c_abstract.h" id="402" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\config_reader\config_reader_thread_safe_1.h" id="403" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\config_reader\config_reader_thread_safe_abstract.h" id="404" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\tokenizer.h" id="405" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\tokenizer\tokenizer_kernel_1.h" id="406" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\c++\climits" id="407" stamp="1547494861"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\limits.h" id="408" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\tokenizer\tokenizer_kernel_abstract.h" id="409" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\tokenizer\tokenizer_kernel_c.h" id="410" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\cmd_line_parser\get_option.h" id="411" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\cmd_line_parser\get_option_abstract.h" id="412" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\string.h" id="413" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\string\string.h" id="414" stamp="1569189457"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.18\dlib-19.18\dlib\string\string_abstract.h" id="415" stamp="1569189457"  exclude="false"/><Lib name="gdi32.lib"/><Lib name="comctl32.lib"/><Lib name="user32.lib"/><Lib name="imm32.lib"/>
+<Comments>
+<c f="2" b="1" e="1" />
+<c f="2" b="2" e="2" />
+<c f="2" b="3" e="0" />
+<c f="2" b="11" e="11" />
+<c f="2" b="12" e="12" />
+<c f="2" b="13" e="0" />
+<c f="2" b="35" e="35" />
+<c f="2" b="37" e="0" />
+<c f="2" b="65" e="65" />
+<c f="2" b="67" e="0" />
+<c f="2" b="108" e="108" />
+<c f="2" b="111" e="111" />
+<c f="2" b="112" e="112" />
+<c f="2" b="113" e="113" />
+<c f="2" b="114" e="0" />
+<c f="2" b="118" e="118" />
+<c f="2" b="119" e="119" />
+<c f="2" b="120" e="0" />
+<c f="2" b="152" e="156" />
+<c f="2" b="157" e="0" />
+<c f="2" b="165" e="165" />
+<c f="2" b="166" e="0" />
+<c f="2" b="168" e="168" />
+<c f="2" b="169" e="0" />
+<c f="2" b="187" e="187" />
+<c f="2" b="188" e="188" />
+<c f="2" b="189" e="189" />
+<c f="2" b="190" e="0" />
+<c f="2" b="193" e="193" />
+<c f="2" b="194" e="0" />
+<c f="2" b="212" e="212" />
+<c f="2" b="213" e="0" />
+<c f="2" b="220" e="220" />
+<c f="2" b="221" e="0" />
+<c f="2" b="238" e="238" />
+<c f="2" b="239" e="0" />
+<c f="2" b="247" e="247" />
+<c f="2" b="248" e="248" />
+<c f="2" b="249" e="0" />
+<c f="2" b="255" e="255" />
+<c f="2" b="256" e="0" />
+<c f="2" b="263" e="263" />
+<c f="2" b="264" e="0" />
+<c f="2" b="269" e="269" />
+<c f="2" b="270" e="275" />
+<c f="2" b="276" e="0" />
+<c f="2" b="286" e="286" />
+<c f="2" b="287" e="287" />
+<c f="2" b="288" e="288" />
+<c f="2" b="289" e="0" />
+<c f="2" b="292" e="292" />
+<c f="2" b="293" e="293" />
+<c f="2" b="294" e="294" />
+<c f="2" b="295" e="295" />
+<c f="2" b="296" e="296" />
+<c f="2" b="297" e="297" />
+<c f="2" b="298" e="298" />
+<c f="2" b="299" e="299" />
+<c f="2" b="300" e="300" />
+<c f="2" b="301" e="301" />
+<c f="2" b="302" e="302" />
+<c f="2" b="303" e="303" />
+<c f="2" b="304" e="304" />
+<c f="2" b="305" e="305" />
+<c f="2" b="306" e="306" />
+<c f="2" b="307" e="307" />
+<c f="2" b="308" e="308" />
+<c f="2" b="309" e="309" />
+<c f="2" b="310" e="310" />
+<c f="2" b="311" e="0" />
+<c f="2" b="324" e="324" />
+<c f="2" b="326" e="0" />
+<c f="2" b="378" e="378" />
+<c f="2" b="379" e="0" />
+<c f="2" b="383" e="383" />
+<c f="2" b="385" e="0" />
+<c f="2" b="392" e="408" />
+<c f="2" b="409" e="0" />
+<c f="2" b="436" e="436" />
+<c f="2" b="437" e="0" />
+<c f="2" b="678" e="678" />
+<c f="2" b="680" e="0" />
+<c f="2" b="688" e="688" />
+<c f="2" b="689" e="689" />
+<c f="2" b="690" e="0" />
+<c f="2" b="743" e="743" />
+<c f="2" b="744" e="0" />
+<c f="2" b="748" e="748" />
+<c f="2" b="749" e="0" />
+<c f="2" b="753" e="753" />
+<c f="2" b="754" e="754" />
+<c f="2" b="755" e="0" />
+<c f="2" b="804" e="804" />
+<c f="2" b="805" e="0" />
+<c f="2" b="824" e="824" />
+<c f="2" b="825" e="0" />
+<c f="2" b="867" e="867" />
+<c f="2" b="868" e="0" />
+<c f="2" b="874" e="874" />
+<c f="2" b="875" e="875" />
+<c f="2" b="876" e="0" />
+<c f="2" b="888" e="888" />
+<c f="2" b="889" e="0" />
+<c f="2" b="893" e="893" />
+<c f="2" b="894" e="894" />
+<c f="2" b="895" e="0" />
+<c f="2" b="910" e="910" />
+<c f="2" b="911" e="0" />
+<c f="2" b="925" e="925" />
+<c f="2" b="926" e="0" />
+<c f="2" b="941" e="941" />
+<c f="2" b="942" e="0" />
+<c f="2" b="957" e="957" />
+<c f="2" b="958" e="0" />
+<c f="2" b="988" e="988" />
+<c f="2" b="989" e="0" />
+<c f="2" b="1010" e="1010" />
+<c f="2" b="1011" e="1011" />
+<c f="2" b="1012" e="0" />
+<c f="2" b="1034" e="1034" />
+<c f="2" b="1035" e="0" />
+<c f="2" b="1037" e="1037" />
+<c f="2" b="1038" e="0" />
+<c f="2" b="1087" e="1087" />
+<c f="2" b="1088" e="0" />
+<c f="2" b="1090" e="1090" />
+<c f="2" b="1091" e="0" />
+<c f="2" b="1127" e="1127" />
+<c f="2" b="1128" e="1128" />
+<c f="2" b="1129" e="0" />
+<c f="2" b="1136" e="1136" />
+<c f="2" b="1137" e="0" />
+<c f="2" b="1141" e="1141" />
+<c f="2" b="1142" e="1142" />
+<c f="2" b="1143" e="0" />
+<c f="2" b="1145" e="1145" />
+<c f="2" b="1146" e="1146" />
+<c f="2" b="1147" e="1147" />
+<c f="2" b="1148" e="0" />
+<c f="2" b="1153" e="1153" />
+<c f="2" b="1154" e="0" />
+<c f="2" b="1163" e="1163" />
+<c f="2" b="1164" e="0" />
+<c f="2" b="1168" e="1168" />
+<c f="2" b="1169" e="0" />
+<c f="2" b="1179" e="1179" />
+<c f="2" b="1180" e="0" />
+<c f="2" b="1187" e="1187" />
+<c f="2" b="1188" e="1188" />
+<c f="2" b="1189" e="1189" />
+<c f="2" b="1190" e="1190" />
+<c f="2" b="1191" e="0" />
+<c f="2" b="1200" e="1200" />
+<c f="2" b="1201" e="0" />
+<c f="2" b="1204" e="1204" />
+<c f="2" b="1205" e="0" />
+<c f="2" b="1311" e="1311" />
+<c f="2" b="1312" e="1312" />
+<c f="2" b="1313" e="0" />
+<c f="2" b="1336" e="1336" />
+<c f="2" b="1337" e="0" />
+<c f="2" b="1344" e="1344" />
+<c f="2" b="1345" e="1345" />
+<c f="2" b="1346" e="0" />
+<c f="2" b="1359" e="1359" />
+<c f="2" b="1360" e="1360" />
+<c f="2" b="1361" e="0" />
+<c f="2" b="1393" e="1393" />
+<c f="2" b="1394" e="0" />
+<c f="2" b="1405" e="1405" />
+<c f="2" b="1408" e="0" />
+<c f="2" b="1424" e="1424" />
+<c f="2" b="1426" e="0" />
+<c f="2" b="1434" e="1434" />
+<c f="2" b="1436" e="0" />
+<c f="2" b="1444" e="1444" />
+<c f="2" b="1446" e="0" />
+<c f="2" b="1449" e="1452" />
+<c f="2" b="1453" e="0" />
+<c f="2" b="1458" e="1458" />
+<c f="2" b="1460" e="0" />
+<c f="2" b="1463" e="1466" />
+<c f="2" b="1467" e="0" />
+<c f="2" b="1472" e="1472" />
+<c f="2" b="1474" e="0" />
+<c f="2" b="1477" e="1485" />
+<c f="2" b="1486" e="0" />
+<c f="2" b="1489" e="1489" />
+<c f="2" b="1490" e="1490" />
+<c f="2" b="1491" e="0" />
+<c f="2" b="1493" e="1493" />
+<c f="2" b="1494" e="0" />
+<c f="2" b="1518" e="1518" />
+<c f="2" b="1519" e="0" />
+<c f="2" b="1529" e="1529" />
+<c f="2" b="1530" e="0" />
+<c f="2" b="1538" e="1538" />
+<c f="2" b="1539" e="1539" />
+<c f="2" b="1540" e="0" />
+<c f="2" b="1547" e="1547" />
+<c f="2" b="1550" e="0" />
+<c f="2" b="1550" e="1550" />
+<c f="2" b="1552" e="1552" />
+<c f="2" b="1554" e="0" />
+<c f="2" b="1569" e="1569" />
+<c f="2" b="1570" e="1570" />
+<c f="2" b="1571" e="0" />
+<c f="2" b="1599" e="1599" />
+<c f="2" b="1601" e="0" />
+<c f="2" b="1624" e="1624" />
+<c f="2" b="1626" e="0" />
+<c f="2" b="1666" e="1666" />
+<c f="2" b="1668" e="0" />
+<c f="2" b="1676" e="1676" />
+<c f="2" b="1678" e="0" />
+<c f="2" b="1686" e="1686" />
+<c f="2" b="1687" e="1687" />
+<c f="2" b="1688" e="0" />
+<c f="2" b="1696" e="1696" />
+<c f="2" b="1698" e="0" />
+<c f="2" b="1708" e="1708" />
+<c f="2" b="1710" e="0" />
+<c f="2" b="1718" e="1718" />
+<c f="2" b="1720" e="0" />
+<c f="2" b="1748" e="1748" />
+<c f="2" b="1749" e="1749" />
+<c f="2" b="1750" e="1750" />
+<c f="2" b="1751" e="1751" />
+<c f="2" b="1752" e="0" />
+<c f="2" b="1766" e="1766" />
+<c f="2" b="1767" e="0" />
+<c f="2" b="1772" e="1772" />
+<c f="2" b="1774" e="0" />
+<c f="2" b="1788" e="1788" />
+<c f="2" b="1790" e="0" />
+<c f="2" b="1802" e="1802" />
+<c f="2" b="1804" e="0" />
+<c f="2" b="1863" e="1863" />
+<c f="2" b="1864" e="1864" />
+<c f="2" b="1865" e="1865" />
+<c f="2" b="1866" e="1866" />
+<c f="2" b="1867" e="0" />
+<c f="2" b="1879" e="1879" />
+<c f="2" b="1880" e="0" />
+<c f="2" b="1886" e="1886" />
+<c f="2" b="1888" e="0" />
+<c f="2" b="1924" e="1924" />
+<c f="2" b="1925" e="1925" />
+<c f="2" b="1926" e="1926" />
+<c f="2" b="1927" e="1927" />
+<c f="2" b="1928" e="0" />
+<c f="2" b="1940" e="1940" />
+<c f="2" b="1941" e="0" />
+<c f="2" b="1946" e="1946" />
+<c f="2" b="1948" e="0" />
+<c f="2" b="1969" e="1969" />
+<c f="2" b="1971" e="0" />
+<c f="2" b="1989" e="1989" />
+<c f="2" b="1990" e="1990" />
+<c f="2" b="1991" e="1991" />
+<c f="2" b="1992" e="0" />
+<c f="2" b="1994" e="1994" />
+<c f="2" b="1995" e="1995" />
+<c f="2" b="1996" e="1996" />
+<c f="2" b="1997" e="0" />
+<c f="2" b="2007" e="2007" />
+<c f="2" b="2009" e="0" />
+<c f="2" b="2029" e="2029" />
+<c f="2" b="2031" e="0" />
+<c f="2" b="2049" e="2049" />
+<c f="2" b="2051" e="0" />
+<c f="2" b="2071" e="2071" />
+<c f="2" b="2073" e="0" />
+<c f="2" b="2110" e="2110" />
+<c f="2" b="2111" e="0" />
+<c f="2" b="2135" e="2135" />
+<c f="2" b="2137" e="0" />
+<c f="2" b="2175" e="2175" />
+<c f="2" b="2176" e="2176" />
+<c f="2" b="2177" e="0" />
+<c f="2" b="2196" e="2196" />
+<c f="2" b="2198" e="0" />
+</Comments>
+<Macros>
+<m f="2" bl="129" bc="35" el="129" ec="89" />
+<m f="2" bl="184" bc="25" el="184" ec="25" />
+<m f="2" bl="184" bc="51" el="184" ec="51" />
+<m f="2" bl="207" bc="29" el="207" ec="29" />
+<m f="2" bl="207" bc="45" el="207" ec="45" />
+<m f="2" bl="208" bc="34" el="208" ec="34" />
+<m f="2" bl="223" bc="42" el="223" ec="42" />
+<m f="2" bl="228" bc="42" el="228" ec="42" />
+<m f="2" bl="228" bc="52" el="228" ec="52" />
+<m f="2" bl="228" bc="58" el="228" ec="58" />
+<m f="2" bl="229" bc="42" el="229" ec="42" />
+<m f="2" bl="229" bc="54" el="229" ec="54" />
+<m f="2" bl="229" bc="60" el="229" ec="60" />
+<m f="2" bl="231" bc="42" el="231" ec="42" />
+<m f="2" bl="234" bc="22" el="234" ec="22" />
+<m f="2" bl="249" bc="35" el="249" ec="42" />
+<m f="2" bl="250" bc="33" el="250" ec="33" />
+<m f="2" bl="250" bc="72" el="250" ec="72" />
+<m f="2" bl="250" bc="92" el="250" ec="92" />
+<m f="2" bl="250" bc="105" el="250" ec="105" />
+<m f="2" bl="250" bc="120" el="250" ec="120" />
+<m f="2" bl="251" bc="38" el="251" ec="38" />
+<m f="2" bl="277" bc="24" el="277" ec="24" />
+<m f="2" bl="277" bc="42" el="277" ec="42" />
+<m f="2" bl="281" bc="21" el="281" ec="21" />
+<m f="2" bl="340" bc="13" el="340" ec="13" />
+<m f="2" bl="340" bc="25" el="340" ec="25" />
+<m f="2" bl="341" bc="42" el="341" ec="42" />
+<m f="2" bl="341" bc="48" el="341" ec="48" />
+<m f="2" bl="341" bc="61" el="341" ec="61" />
+<m f="2" bl="370" bc="21" el="370" ec="21" />
+<m f="2" bl="370" bc="33" el="370" ec="33" />
+<m f="2" bl="371" bc="40" el="371" ec="40" />
+<m f="2" bl="371" bc="46" el="371" ec="46" />
+<m f="2" bl="371" bc="59" el="371" ec="59" />
+<m f="2" bl="444" bc="22" el="444" ec="22" />
+<m f="2" bl="449" bc="22" el="449" ec="22" />
+<m f="2" bl="454" bc="22" el="454" ec="22" />
+<m f="2" bl="459" bc="22" el="459" ec="22" />
+<m f="2" bl="464" bc="22" el="464" ec="22" />
+<m f="2" bl="469" bc="22" el="469" ec="22" />
+<m f="2" bl="474" bc="22" el="474" ec="22" />
+<m f="2" bl="479" bc="22" el="479" ec="22" />
+<m f="2" bl="484" bc="22" el="484" ec="22" />
+<m f="2" bl="489" bc="22" el="489" ec="22" />
+<m f="2" bl="494" bc="22" el="494" ec="22" />
+<m f="2" bl="499" bc="22" el="499" ec="22" />
+<m f="2" bl="504" bc="22" el="504" ec="22" />
+<m f="2" bl="509" bc="22" el="509" ec="22" />
+<m f="2" bl="514" bc="22" el="514" ec="22" />
+<m f="2" bl="519" bc="22" el="519" ec="22" />
+<m f="2" bl="524" bc="22" el="524" ec="22" />
+<m f="2" bl="534" bc="22" el="534" ec="22" />
+<m f="2" bl="539" bc="22" el="539" ec="22" />
+<m f="2" bl="544" bc="22" el="544" ec="22" />
+<m f="2" bl="549" bc="22" el="549" ec="22" />
+<m f="2" bl="554" bc="22" el="554" ec="22" />
+<m f="2" bl="559" bc="22" el="559" ec="22" />
+<m f="2" bl="564" bc="22" el="564" ec="22" />
+<m f="2" bl="569" bc="22" el="569" ec="22" />
+<m f="2" bl="574" bc="22" el="574" ec="22" />
+<m f="2" bl="579" bc="22" el="579" ec="22" />
+<m f="2" bl="584" bc="22" el="584" ec="22" />
+<m f="2" bl="589" bc="22" el="589" ec="22" />
+<m f="2" bl="595" bc="22" el="595" ec="22" />
+<m f="2" bl="596" bc="22" el="596" ec="22" />
+<m f="2" bl="597" bc="22" el="597" ec="22" />
+<m f="2" bl="598" bc="22" el="598" ec="22" />
+<m f="2" bl="599" bc="22" el="599" ec="22" />
+<m f="2" bl="600" bc="22" el="600" ec="22" />
+<m f="2" bl="601" bc="22" el="601" ec="22" />
+<m f="2" bl="602" bc="22" el="602" ec="22" />
+<m f="2" bl="603" bc="22" el="603" ec="22" />
+<m f="2" bl="604" bc="22" el="604" ec="22" />
+<m f="2" bl="605" bc="22" el="605" ec="22" />
+<m f="2" bl="606" bc="22" el="606" ec="22" />
+<m f="2" bl="607" bc="22" el="607" ec="22" />
+<m f="2" bl="609" bc="22" el="609" ec="22" />
+<m f="2" bl="610" bc="22" el="610" ec="22" />
+<m f="2" bl="611" bc="22" el="611" ec="22" />
+<m f="2" bl="612" bc="22" el="612" ec="22" />
+<m f="2" bl="613" bc="22" el="613" ec="22" />
+<m f="2" bl="615" bc="22" el="615" ec="22" />
+<m f="2" bl="620" bc="22" el="620" ec="22" />
+<m f="2" bl="625" bc="22" el="625" ec="22" />
+<m f="2" bl="630" bc="22" el="630" ec="22" />
+<m f="2" bl="635" bc="22" el="635" ec="22" />
+<m f="2" bl="640" bc="22" el="640" ec="22" />
+<m f="2" bl="645" bc="22" el="645" ec="22" />
+<m f="2" bl="650" bc="22" el="650" ec="22" />
+<m f="2" bl="655" bc="22" el="655" ec="22" />
+<m f="2" bl="660" bc="22" el="660" ec="22" />
+<m f="2" bl="665" bc="22" el="665" ec="22" />
+<m f="2" bl="680" bc="17" el="680" ec="17" />
+<m f="2" bl="690" bc="38" el="690" ec="38" />
+<m f="2" bl="690" bc="56" el="690" ec="56" />
+<m f="2" bl="691" bc="36" el="691" ec="36" />
+<m f="2" bl="710" bc="26" el="710" ec="26" />
+<m f="2" bl="718" bc="26" el="718" ec="26" />
+<m f="2" bl="725" bc="26" el="725" ec="26" />
+<m f="2" bl="734" bc="33" el="734" ec="33" />
+<m f="2" bl="740" bc="26" el="740" ec="26" />
+<m f="2" bl="768" bc="26" el="768" ec="26" />
+<m f="2" bl="775" bc="26" el="775" ec="26" />
+<m f="2" bl="778" bc="53" el="778" ec="53" />
+<m f="2" bl="783" bc="26" el="783" ec="26" />
+<m f="2" bl="786" bc="53" el="786" ec="53" />
+<m f="2" bl="790" bc="26" el="790" ec="26" />
+<m f="2" bl="800" bc="26" el="800" ec="26" />
+<m f="2" bl="805" bc="53" el="805" ec="53" />
+<m f="2" bl="807" bc="51" el="807" ec="58" />
+<m f="2" bl="808" bc="55" el="808" ec="55" />
+<m f="2" bl="808" bc="71" el="808" ec="71" />
+<m f="2" bl="810" bc="37" el="810" ec="37" />
+<m f="2" bl="810" bc="52" el="810" ec="52" />
+<m f="2" bl="811" bc="37" el="811" ec="37" />
+<m f="2" bl="811" bc="52" el="811" ec="52" />
+<m f="2" bl="812" bc="52" el="812" ec="52" />
+<m f="2" bl="812" bc="78" el="812" ec="78" />
+<m f="2" bl="813" bc="63" el="813" ec="63" />
+<m f="2" bl="817" bc="51" el="817" ec="58" />
+<m f="2" bl="818" bc="55" el="818" ec="55" />
+<m f="2" bl="820" bc="37" el="820" ec="37" />
+<m f="2" bl="820" bc="52" el="820" ec="52" />
+<m f="2" bl="821" bc="37" el="821" ec="37" />
+<m f="2" bl="821" bc="52" el="821" ec="52" />
+<m f="2" bl="822" bc="37" el="822" ec="37" />
+<m f="2" bl="822" bc="43" el="822" ec="43" />
+<m f="2" bl="822" bc="69" el="822" ec="69" />
+<m f="2" bl="825" bc="56" el="825" ec="56" />
+<m f="2" bl="831" bc="26" el="831" ec="26" />
+<m f="2" bl="832" bc="26" el="832" ec="26" />
+<m f="2" bl="845" bc="56" el="845" ec="56" />
+<m f="2" bl="846" bc="55" el="846" ec="55" />
+<m f="2" bl="847" bc="55" el="847" ec="55" />
+<m f="2" bl="854" bc="45" el="854" ec="45" />
+<m f="2" bl="856" bc="45" el="856" ec="45" />
+<m f="2" bl="858" bc="45" el="858" ec="45" />
+<m f="2" bl="876" bc="26" el="876" ec="26" />
+<m f="2" bl="877" bc="26" el="877" ec="26" />
+<m f="2" bl="878" bc="26" el="878" ec="26" />
+<m f="2" bl="879" bc="26" el="879" ec="26" />
+<m f="2" bl="895" bc="26" el="895" ec="26" />
+<m f="2" bl="896" bc="26" el="896" ec="26" />
+<m f="2" bl="897" bc="26" el="897" ec="26" />
+<m f="2" bl="898" bc="26" el="898" ec="26" />
+<m f="2" bl="899" bc="26" el="899" ec="26" />
+<m f="2" bl="900" bc="26" el="900" ec="26" />
+<m f="2" bl="901" bc="26" el="901" ec="26" />
+<m f="2" bl="915" bc="26" el="915" ec="26" />
+<m f="2" bl="931" bc="26" el="931" ec="26" />
+<m f="2" bl="947" bc="26" el="947" ec="26" />
+<m f="2" bl="967" bc="26" el="967" ec="26" />
+<m f="2" bl="977" bc="42" el="977" ec="42" />
+<m f="2" bl="979" bc="42" el="979" ec="42" />
+<m f="2" bl="981" bc="42" el="981" ec="42" />
+<m f="2" bl="983" bc="42" el="983" ec="42" />
+<m f="2" bl="985" bc="42" el="985" ec="42" />
+<m f="2" bl="989" bc="33" el="989" ec="62" />
+<m f="2" bl="1001" bc="26" el="1001" ec="26" />
+<m f="2" bl="1003" bc="26" el="1003" ec="26" />
+<m f="2" bl="1006" bc="26" el="1006" ec="26" />
+<m f="2" bl="1012" bc="45" el="1012" ec="45" />
+<m f="2" bl="1012" bc="69" el="1012" ec="69" />
+<m f="2" bl="1012" bc="93" el="1012" ec="93" />
+<m f="2" bl="1023" bc="42" el="1023" ec="42" />
+<m f="2" bl="1025" bc="42" el="1025" ec="42" />
+<m f="2" bl="1027" bc="42" el="1027" ec="42" />
+<m f="2" bl="1029" bc="42" el="1029" ec="42" />
+<m f="2" bl="1031" bc="42" el="1031" ec="42" />
+<m f="2" bl="1038" bc="56" el="1038" ec="75" />
+<m f="2" bl="1038" bc="77" el="1038" ec="96" />
+<m f="2" bl="1045" bc="26" el="1045" ec="26" />
+<m f="2" bl="1048" bc="26" el="1048" ec="26" />
+<m f="2" bl="1051" bc="26" el="1051" ec="26" />
+<m f="2" bl="1055" bc="26" el="1055" ec="26" />
+<m f="2" bl="1058" bc="26" el="1058" ec="26" />
+<m f="2" bl="1061" bc="26" el="1061" ec="26" />
+<m f="2" bl="1076" bc="42" el="1076" ec="42" />
+<m f="2" bl="1078" bc="42" el="1078" ec="42" />
+<m f="2" bl="1080" bc="42" el="1080" ec="42" />
+<m f="2" bl="1082" bc="42" el="1082" ec="42" />
+<m f="2" bl="1084" bc="42" el="1084" ec="42" />
+<m f="2" bl="1091" bc="58" el="1091" ec="77" />
+<m f="2" bl="1091" bc="79" el="1091" ec="98" />
+<m f="2" bl="1096" bc="26" el="1096" ec="26" />
+<m f="2" bl="1107" bc="42" el="1107" ec="42" />
+<m f="2" bl="1109" bc="42" el="1109" ec="42" />
+<m f="2" bl="1114" bc="42" el="1114" ec="42" />
+<m f="2" bl="1119" bc="42" el="1119" ec="42" />
+<m f="2" bl="1124" bc="42" el="1124" ec="42" />
+<m f="2" bl="1129" bc="34" el="1129" ec="53" />
+<m f="2" bl="1130" bc="34" el="1130" ec="53" />
+<m f="2" bl="1133" bc="58" el="1133" ec="77" />
+<m f="2" bl="1133" bc="79" el="1133" ec="98" />
+<m f="2" bl="1137" bc="42" el="1137" ec="61" />
+<m f="2" bl="1138" bc="42" el="1138" ec="61" />
+<m f="2" bl="1157" bc="50" el="1157" ec="50" />
+<m f="2" bl="1164" bc="54" el="1164" ec="73" />
+<m f="2" bl="1165" bc="54" el="1165" ec="73" />
+<m f="2" bl="1191" bc="54" el="1191" ec="73" />
+<m f="2" bl="1192" bc="54" el="1192" ec="73" />
+<m f="2" bl="1208" bc="50" el="1208" ec="50" />
+<m f="2" bl="1218" bc="26" el="1218" ec="26" />
+<m f="2" bl="1222" bc="41" el="1222" ec="41" />
+<m f="2" bl="1256" bc="73" el="1256" ec="73" />
+<m f="2" bl="1302" bc="41" el="1302" ec="41" />
+<m f="2" bl="1313" bc="44" el="1313" ec="44" />
+<m f="2" bl="1320" bc="27" el="1320" ec="27" />
+<m f="2" bl="1326" bc="26" el="1326" ec="26" />
+<m f="2" bl="1339" bc="33" el="1343" ec="37" />
+<m f="2" bl="1366" bc="32" el="1366" ec="32" />
+<m f="2" bl="1368" bc="26" el="1368" ec="26" />
+<m f="2" bl="1372" bc="26" el="1372" ec="26" />
+<m f="2" bl="1382" bc="38" el="1382" ec="38" />
+<m f="2" bl="1384" bc="75" el="1384" ec="75" />
+<m f="2" bl="1385" bc="44" el="1385" ec="44" />
+<m f="2" bl="1385" bc="75" el="1385" ec="75" />
+<m f="2" bl="1390" bc="64" el="1390" ec="64" />
+<m f="2" bl="1420" bc="20" el="1420" ec="20" />
+<m f="2" bl="1431" bc="13" el="1431" ec="13" />
+<m f="2" bl="1431" bc="54" el="1431" ec="54" />
+<m f="2" bl="1441" bc="13" el="1441" ec="13" />
+<m f="2" bl="1441" bc="54" el="1441" ec="54" />
+<m f="2" bl="1455" bc="13" el="1455" ec="13" />
+<m f="2" bl="1455" bc="54" el="1455" ec="54" />
+<m f="2" bl="1469" bc="13" el="1469" ec="13" />
+<m f="2" bl="1469" bc="54" el="1469" ec="54" />
+<m f="2" bl="1494" bc="33" el="1494" ec="33" />
+<m f="2" bl="1496" bc="39" el="1496" ec="46" />
+<m f="2" bl="1497" bc="32" el="1497" ec="32" />
+<m f="2" bl="1497" bc="48" el="1497" ec="48" />
+<m f="2" bl="1497" bc="65" el="1497" ec="65" />
+<m f="2" bl="1499" bc="29" el="1499" ec="29" />
+<m f="2" bl="1499" bc="44" el="1499" ec="44" />
+<m f="2" bl="1500" bc="29" el="1500" ec="29" />
+<m f="2" bl="1500" bc="44" el="1500" ec="44" />
+<m f="2" bl="1501" bc="53" el="1501" ec="53" />
+<m f="2" bl="1501" bc="79" el="1501" ec="79" />
+<m f="2" bl="1502" bc="35" el="1502" ec="35" />
+<m f="2" bl="1507" bc="39" el="1507" ec="46" />
+<m f="2" bl="1508" bc="28" el="1508" ec="28" />
+<m f="2" bl="1510" bc="29" el="1510" ec="29" />
+<m f="2" bl="1510" bc="44" el="1510" ec="44" />
+<m f="2" bl="1511" bc="29" el="1511" ec="29" />
+<m f="2" bl="1511" bc="44" el="1511" ec="44" />
+<m f="2" bl="1512" bc="29" el="1512" ec="29" />
+<m f="2" bl="1512" bc="35" el="1512" ec="35" />
+<m f="2" bl="1512" bc="61" el="1512" ec="61" />
+<m f="2" bl="1524" bc="21" el="1524" ec="21" />
+<m f="2" bl="1524" bc="56" el="1524" ec="56" />
+<m f="2" bl="1530" bc="47" el="1530" ec="47" />
+<m f="2" bl="1534" bc="39" el="1534" ec="39" />
+<m f="2" bl="1541" bc="28" el="1541" ec="28" />
+<m f="2" bl="1618" bc="13" el="1618" ec="13" />
+<m f="2" bl="1618" bc="48" el="1618" ec="48" />
+<m f="2" bl="1639" bc="9" el="1643" ec="13" />
+<m f="2" bl="1646" bc="21" el="1646" ec="21" />
+<m f="2" bl="1648" bc="21" el="1648" ec="21" />
+<m f="2" bl="1650" bc="21" el="1650" ec="21" />
+<m f="2" bl="1650" bc="43" el="1650" ec="43" />
+<m f="2" bl="1650" bc="59" el="1650" ec="59" />
+<m f="2" bl="1654" bc="21" el="1654" ec="21" />
+<m f="2" bl="1761" bc="17" el="1761" ec="17" />
+<m f="2" bl="1761" bc="52" el="1761" ec="52" />
+<m f="2" bl="1784" bc="22" el="1784" ec="22" />
+<m f="2" bl="1830" bc="44" el="1830" ec="44" />
+<m f="2" bl="1841" bc="17" el="1841" ec="17" />
+<m f="2" bl="1858" bc="44" el="1858" ec="44" />
+<m f="2" bl="1874" bc="17" el="1874" ec="17" />
+<m f="2" bl="1874" bc="52" el="1874" ec="52" />
+<m f="2" bl="1912" bc="17" el="1912" ec="17" />
+<m f="2" bl="1935" bc="17" el="1935" ec="17" />
+<m f="2" bl="1935" bc="52" el="1935" ec="52" />
+<m f="2" bl="1992" bc="41" el="1992" ec="41" />
+<m f="2" bl="1998" bc="9" el="1998" ec="9" />
+<m f="2" bl="2045" bc="39" el="2045" ec="39" />
+<m f="2" bl="2064" bc="22" el="2064" ec="22" />
+<m f="2" bl="2103" bc="39" el="2103" ec="39" />
+<m f="2" bl="2104" bc="24" el="2104" ec="24" />
+<m f="2" bl="2108" bc="28" el="2108" ec="28" />
+<m f="2" bl="2128" bc="38" el="2128" ec="38" />
+<m f="2" bl="2167" bc="44" el="2167" ec="44" />
+<m f="2" bl="2168" bc="25" el="2168" ec="25" />
+</Macros>
+<Comments>
+<c f="1" b="1" e="1" />
+<c f="1" b="2" e="2" />
+<c f="1" b="3" e="0" />
+<c f="1" b="27" e="27" />
+<c f="1" b="28" e="28" />
+<c f="1" b="29" e="29" />
+<c f="1" b="30" e="30" />
+<c f="1" b="31" e="0" />
+<c f="1" b="48" e="48" />
+<c f="1" b="50" e="0" />
+<c f="1" b="59" e="59" />
+<c f="1" b="61" e="0" />
+<c f="1" b="113" e="113" />
+<c f="1" b="114" e="0" />
+<c f="1" b="114" e="114" />
+<c f="1" b="115" e="0" />
+<c f="1" b="115" e="115" />
+<c f="1" b="116" e="0" />
+<c f="1" b="116" e="116" />
+<c f="1" b="118" e="0" />
+<c f="1" b="139" e="139" />
+<c f="1" b="141" e="0" />
+<c f="1" b="153" e="153" />
+<c f="1" b="155" e="0" />
+<c f="1" b="167" e="167" />
+<c f="1" b="169" e="0" />
+<c f="1" b="178" e="178" />
+<c f="1" b="179" e="179" />
+<c f="1" b="180" e="180" />
+<c f="1" b="181" e="181" />
+<c f="1" b="182" e="0" />
+<c f="1" b="184" e="184" />
+<c f="1" b="185" e="0" />
+<c f="1" b="309" e="309" />
+<c f="1" b="310" e="0" />
+<c f="1" b="310" e="310" />
+<c f="1" b="311" e="0" />
+<c f="1" b="311" e="311" />
+<c f="1" b="312" e="0" />
+<c f="1" b="312" e="312" />
+<c f="1" b="313" e="0" />
+<c f="1" b="317" e="317" />
+<c f="1" b="318" e="0" />
+<c f="1" b="405" e="405" />
+<c f="1" b="406" e="0" />
+<c f="1" b="406" e="406" />
+<c f="1" b="408" e="0" />
+<c f="1" b="410" e="410" />
+<c f="1" b="412" e="0" />
+</Comments>
+<Macros>
+<m f="1" bl="54" bc="17" el="54" ec="17" />
+<m f="1" bl="77" bc="13" el="83" ec="17" />
+<m f="1" bl="96" bc="24" el="96" ec="24" />
+<m f="1" bl="171" bc="24" el="171" ec="24" />
+</Macros></Index>

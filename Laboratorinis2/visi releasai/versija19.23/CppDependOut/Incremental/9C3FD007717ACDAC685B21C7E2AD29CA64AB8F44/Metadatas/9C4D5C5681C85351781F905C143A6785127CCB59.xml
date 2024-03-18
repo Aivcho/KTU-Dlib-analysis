@@ -1,0 +1,509 @@
+<Index><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\external\libjpeg\jdmerge.c" id="1" stamp="1643087427"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\external\libjpeg\jinclude.h" id="3" stamp="1643087427"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\external\libjpeg\jconfig.h" id="4" stamp="1643087427"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\compiler\include\stddef.h" id="5" stamp="1547491789"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\stdlib.h" id="6" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\_mingw.h" id="7" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\msvcrtver.h" id="8" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\w32api.h" id="9" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sdkddkver.h" id="10" stamp="1548165664"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\features.h" id="11" stamp="1553706234"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\alloca.h" id="12" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\stdio.h" id="13" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\sys\types.h" id="14" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\string.h" id="15" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\strings.h" id="16" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\cppdepend2024.1\DefaultToolchain\include\wchar.h" id="17" stamp="1548165650"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\external\libjpeg\jpeglib.h" id="2" stamp="1643087427"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\external\libjpeg\jmorecfg.h" id="18" stamp="1643087427"  exclude="false"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\external\libjpeg\jpegint.h" id="19" stamp="1643087427"  exclude="false" include="true" bind="true"/><File path="C:\Users\Dell\Desktop\Antras kursas\Antras semestras\T120M013 Programų priežiūra ir tobulinimas\Laboratorinis2\visi releasai\versija19.23\dlib-19.23\dlib\external\libjpeg\jerror.h" id="20" stamp="1643087427"  exclude="false"/>
+<Comments>
+<c f="1" b="1" e="33" />
+<c f="1" b="35" e="0" />
+<c f="1" b="42" e="42" />
+<c f="1" b="44" e="0" />
+<c f="1" b="45" e="45" />
+<c f="1" b="47" e="47" />
+<c f="1" b="48" e="0" />
+<c f="1" b="52" e="52" />
+<c f="1" b="53" e="0" />
+<c f="1" b="53" e="53" />
+<c f="1" b="54" e="0" />
+<c f="1" b="54" e="54" />
+<c f="1" b="55" e="0" />
+<c f="1" b="55" e="55" />
+<c f="1" b="56" e="0" />
+<c f="1" b="56" e="56" />
+<c f="1" b="58" e="62" />
+<c f="1" b="63" e="0" />
+<c f="1" b="64" e="64" />
+<c f="1" b="66" e="0" />
+<c f="1" b="66" e="66" />
+<c f="1" b="67" e="0" />
+<c f="1" b="67" e="67" />
+<c f="1" b="68" e="0" />
+<c f="1" b="72" e="72" />
+<c f="1" b="73" e="0" />
+<c f="1" b="77" e="80" />
+<c f="1" b="82" e="0" />
+<c f="1" b="104" e="104" />
+<c f="1" b="105" e="105" />
+<c f="1" b="106" e="106" />
+<c f="1" b="107" e="0" />
+<c f="1" b="109" e="109" />
+<c f="1" b="110" e="0" />
+<c f="1" b="112" e="112" />
+<c f="1" b="113" e="0" />
+<c f="1" b="114" e="114" />
+<c f="1" b="115" e="115" />
+<c f="1" b="116" e="0" />
+<c f="1" b="121" e="123" />
+<c f="1" b="125" e="0" />
+<c f="1" b="130" e="130" />
+<c f="1" b="131" e="0" />
+<c f="1" b="132" e="132" />
+<c f="1" b="133" e="0" />
+<c f="1" b="137" e="141" />
+<c f="1" b="143" e="0" />
+<c f="1" b="149" e="149" />
+<c f="1" b="150" e="0" />
+<c f="1" b="153" e="153" />
+<c f="1" b="155" e="0" />
+<c f="1" b="156" e="156" />
+<c f="1" b="157" e="0" />
+<c f="1" b="162" e="162" />
+<c f="1" b="163" e="0" />
+<c f="1" b="164" e="164" />
+<c f="1" b="165" e="0" />
+<c f="1" b="167" e="167" />
+<c f="1" b="168" e="0" />
+<c f="1" b="171" e="171" />
+<c f="1" b="172" e="0" />
+<c f="1" b="179" e="179" />
+<c f="1" b="180" e="0" />
+<c f="1" b="183" e="183" />
+<c f="1" b="184" e="0" />
+<c f="1" b="186" e="186" />
+<c f="1" b="187" e="0" />
+<c f="1" b="198" e="198" />
+<c f="1" b="199" e="0" />
+<c f="1" b="202" e="202" />
+<c f="1" b="203" e="0" />
+<c f="1" b="205" e="205" />
+<c f="1" b="206" e="0" />
+<c f="1" b="211" e="218" />
+<c f="1" b="221" e="223" />
+<c f="1" b="225" e="0" />
+<c f="1" b="236" e="236" />
+<c f="1" b="237" e="0" />
+<c f="1" b="248" e="248" />
+<c f="1" b="249" e="0" />
+<c f="1" b="250" e="250" />
+<c f="1" b="251" e="0" />
+<c f="1" b="256" e="256" />
+<c f="1" b="257" e="0" />
+<c f="1" b="268" e="268" />
+<c f="1" b="269" e="0" />
+<c f="1" b="283" e="285" />
+<c f="1" b="287" e="0" />
+<c f="1" b="298" e="298" />
+<c f="1" b="299" e="0" />
+<c f="1" b="312" e="312" />
+<c f="1" b="313" e="0" />
+<c f="1" b="314" e="314" />
+<c f="1" b="315" e="0" />
+<c f="1" b="320" e="320" />
+<c f="1" b="321" e="0" />
+<c f="1" b="342" e="342" />
+<c f="1" b="343" e="0" />
+<c f="1" b="361" e="367" />
+<c f="1" b="369" e="0" />
+<c f="1" b="386" e="386" />
+<c f="1" b="387" e="0" />
+<c f="1" b="393" e="393" />
+<c f="1" b="394" e="0" />
+<c f="1" b="400" e="400" />
+</Comments>
+<Macros>
+<m f="1" bl="48" bc="3" el="50" ec="29" />
+<m f="1" bl="82" bc="1" el="82" ec="11" />
+<m f="1" bl="88" bc="3" el="88" ec="3" />
+<m f="1" bl="91" bc="55" el="91" ec="55" />
+<m f="1" bl="92" bc="6" el="92" ec="6" />
+<m f="1" bl="92" bc="22" el="92" ec="32" />
+<m f="1" bl="94" bc="55" el="94" ec="55" />
+<m f="1" bl="95" bc="6" el="95" ec="6" />
+<m f="1" bl="95" bc="22" el="95" ec="32" />
+<m f="1" bl="97" bc="55" el="97" ec="55" />
+<m f="1" bl="98" bc="6" el="98" ec="6" />
+<m f="1" bl="98" bc="22" el="98" ec="34" />
+<m f="1" bl="100" bc="55" el="100" ec="55" />
+<m f="1" bl="101" bc="6" el="101" ec="6" />
+<m f="1" bl="101" bc="22" el="101" ec="34" />
+<m f="1" bl="103" bc="20" el="103" ec="20" />
+<m f="1" bl="103" bc="40" el="103" ec="40" />
+<m f="1" bl="108" bc="7" el="108" ec="57" />
+<m f="1" bl="108" bc="19" el="108" ec="30" />
+<m f="1" bl="108" bc="38" el="108" ec="38" />
+<m f="1" bl="108" bc="48" el="108" ec="48" />
+<m f="1" bl="111" bc="7" el="111" ec="57" />
+<m f="1" bl="111" bc="19" el="111" ec="30" />
+<m f="1" bl="111" bc="38" el="111" ec="38" />
+<m f="1" bl="111" bc="48" el="111" ec="48" />
+<m f="1" bl="113" bc="32" el="113" ec="43" />
+<m f="1" bl="116" bc="32" el="116" ec="43" />
+<m f="1" bl="116" bc="52" el="116" ec="52" />
+<m f="1" bl="125" bc="1" el="125" ec="15" />
+<m f="1" bl="131" bc="26" el="131" ec="26" />
+<m f="1" bl="143" bc="1" el="143" ec="15" />
+<m f="1" bl="160" bc="28" el="160" ec="28" />
+<m f="1" bl="177" bc="30" el="177" ec="30" />
+<m f="1" bl="192" bc="1" el="192" ec="15" />
+<m f="1" bl="225" bc="1" el="225" ec="15" />
+<m f="1" bl="242" bc="3" el="242" ec="3" />
+<m f="1" bl="251" bc="10" el="251" ec="30" />
+<m f="1" bl="252" bc="10" el="252" ec="30" />
+<m f="1" bl="254" bc="20" el="254" ec="66" />
+<m f="1" bl="254" bc="57" el="254" ec="57" />
+<m f="1" bl="257" bc="10" el="257" ec="30" />
+<m f="1" bl="258" bc="12" el="258" ec="12" />
+<m f="1" bl="259" bc="12" el="259" ec="12" />
+<m f="1" bl="260" bc="12" el="260" ec="12" />
+<m f="1" bl="261" bc="15" el="261" ec="15" />
+<m f="1" bl="262" bc="10" el="262" ec="30" />
+<m f="1" bl="263" bc="12" el="263" ec="12" />
+<m f="1" bl="264" bc="12" el="264" ec="12" />
+<m f="1" bl="265" bc="12" el="265" ec="12" />
+<m f="1" bl="266" bc="15" el="266" ec="15" />
+<m f="1" bl="270" bc="10" el="270" ec="28" />
+<m f="1" bl="271" bc="10" el="271" ec="28" />
+<m f="1" bl="273" bc="20" el="273" ec="66" />
+<m f="1" bl="273" bc="57" el="273" ec="57" />
+<m f="1" bl="275" bc="10" el="275" ec="28" />
+<m f="1" bl="276" bc="12" el="276" ec="12" />
+<m f="1" bl="277" bc="12" el="277" ec="12" />
+<m f="1" bl="278" bc="12" el="278" ec="12" />
+<m f="1" bl="287" bc="1" el="287" ec="15" />
+<m f="1" bl="304" bc="3" el="304" ec="3" />
+<m f="1" bl="315" bc="10" el="315" ec="30" />
+<m f="1" bl="316" bc="10" el="316" ec="30" />
+<m f="1" bl="318" bc="20" el="318" ec="66" />
+<m f="1" bl="318" bc="57" el="318" ec="57" />
+<m f="1" bl="321" bc="10" el="321" ec="31" />
+<m f="1" bl="322" bc="13" el="322" ec="13" />
+<m f="1" bl="323" bc="13" el="323" ec="13" />
+<m f="1" bl="324" bc="13" el="324" ec="13" />
+<m f="1" bl="325" bc="16" el="325" ec="16" />
+<m f="1" bl="326" bc="10" el="326" ec="31" />
+<m f="1" bl="327" bc="13" el="327" ec="13" />
+<m f="1" bl="328" bc="13" el="328" ec="13" />
+<m f="1" bl="329" bc="13" el="329" ec="13" />
+<m f="1" bl="330" bc="16" el="330" ec="16" />
+<m f="1" bl="331" bc="10" el="331" ec="31" />
+<m f="1" bl="332" bc="13" el="332" ec="13" />
+<m f="1" bl="333" bc="13" el="333" ec="13" />
+<m f="1" bl="334" bc="13" el="334" ec="13" />
+<m f="1" bl="335" bc="16" el="335" ec="16" />
+<m f="1" bl="336" bc="10" el="336" ec="31" />
+<m f="1" bl="337" bc="13" el="337" ec="13" />
+<m f="1" bl="338" bc="13" el="338" ec="13" />
+<m f="1" bl="339" bc="13" el="339" ec="13" />
+<m f="1" bl="340" bc="16" el="340" ec="16" />
+<m f="1" bl="344" bc="10" el="344" ec="28" />
+<m f="1" bl="345" bc="10" el="345" ec="28" />
+<m f="1" bl="347" bc="20" el="347" ec="66" />
+<m f="1" bl="347" bc="57" el="347" ec="57" />
+<m f="1" bl="349" bc="10" el="349" ec="29" />
+<m f="1" bl="350" bc="13" el="350" ec="13" />
+<m f="1" bl="351" bc="13" el="351" ec="13" />
+<m f="1" bl="352" bc="13" el="352" ec="13" />
+<m f="1" bl="353" bc="10" el="353" ec="29" />
+<m f="1" bl="354" bc="13" el="354" ec="13" />
+<m f="1" bl="355" bc="13" el="355" ec="13" />
+<m f="1" bl="356" bc="13" el="356" ec="13" />
+<m f="1" bl="369" bc="1" el="369" ec="12" />
+<m f="1" bl="375" bc="55" el="375" ec="55" />
+<m f="1" bl="376" bc="5" el="376" ec="24" />
+<m f="1" bl="379" bc="37" el="379" ec="37" />
+<m f="1" bl="388" bc="57" el="388" ec="57" />
+<m f="1" bl="389" bc="39" el="389" ec="53" />
+<m f="1" bl="394" bc="27" el="394" ec="27" />
+</Macros>
+<Comments>
+<c f="19" b="1" e="12" />
+<c f="19" b="15" e="15" />
+<c f="19" b="17" e="0" />
+<c f="19" b="17" e="17" />
+<c f="19" b="18" e="0" />
+<c f="19" b="18" e="18" />
+<c f="19" b="19" e="19" />
+<c f="19" b="20" e="0" />
+<c f="19" b="20" e="20" />
+<c f="19" b="21" e="0" />
+<c f="19" b="21" e="21" />
+<c f="19" b="22" e="0" />
+<c f="19" b="22" e="22" />
+<c f="19" b="23" e="0" />
+<c f="19" b="25" e="25" />
+<c f="19" b="26" e="0" />
+<c f="19" b="26" e="26" />
+<c f="19" b="27" e="0" />
+<c f="19" b="27" e="27" />
+<c f="19" b="28" e="0" />
+<c f="19" b="28" e="28" />
+<c f="19" b="29" e="0" />
+<c f="19" b="29" e="29" />
+<c f="19" b="30" e="0" />
+<c f="19" b="30" e="30" />
+<c f="19" b="31" e="0" />
+<c f="19" b="31" e="31" />
+<c f="19" b="32" e="0" />
+<c f="19" b="32" e="32" />
+<c f="19" b="33" e="0" />
+<c f="19" b="33" e="33" />
+<c f="19" b="34" e="0" />
+<c f="19" b="34" e="34" />
+<c f="19" b="35" e="0" />
+<c f="19" b="35" e="35" />
+<c f="19" b="36" e="0" />
+<c f="19" b="36" e="36" />
+<c f="19" b="37" e="0" />
+<c f="19" b="37" e="37" />
+<c f="19" b="38" e="0" />
+<c f="19" b="38" e="38" />
+<c f="19" b="39" e="0" />
+<c f="19" b="39" e="39" />
+<c f="19" b="40" e="0" />
+<c f="19" b="40" e="40" />
+<c f="19" b="43" e="43" />
+<c f="19" b="45" e="45" />
+<c f="19" b="46" e="0" />
+<c f="19" b="51" e="51" />
+<c f="19" b="52" e="0" />
+<c f="19" b="52" e="52" />
+<c f="19" b="53" e="0" />
+<c f="19" b="53" e="53" />
+<c f="19" b="54" e="0" />
+<c f="19" b="56" e="56" />
+<c f="19" b="57" e="0" />
+<c f="19" b="64" e="64" />
+<c f="19" b="65" e="0" />
+<c f="19" b="76" e="76" />
+<c f="19" b="77" e="0" />
+<c f="19" b="83" e="83" />
+<c f="19" b="84" e="0" />
+<c f="19" b="91" e="91" />
+<c f="19" b="92" e="0" />
+<c f="19" b="99" e="99" />
+<c f="19" b="100" e="0" />
+<c f="19" b="102" e="102" />
+<c f="19" b="103" e="0" />
+<c f="19" b="111" e="111" />
+<c f="19" b="112" e="0" />
+<c f="19" b="115" e="115" />
+<c f="19" b="116" e="0" />
+<c f="19" b="122" e="122" />
+<c f="19" b="123" e="0" />
+<c f="19" b="129" e="129" />
+<c f="19" b="130" e="130" />
+<c f="19" b="131" e="0" />
+<c f="19" b="137" e="137" />
+<c f="19" b="139" e="139" />
+<c f="19" b="140" e="0" />
+<c f="19" b="144" e="144" />
+<c f="19" b="145" e="0" />
+<c f="19" b="145" e="145" />
+<c f="19" b="146" e="0" />
+<c f="19" b="148" e="148" />
+<c f="19" b="149" e="0" />
+<c f="19" b="155" e="155" />
+<c f="19" b="156" e="0" />
+<c f="19" b="156" e="156" />
+<c f="19" b="157" e="0" />
+<c f="19" b="157" e="157" />
+<c f="19" b="158" e="0" />
+<c f="19" b="160" e="160" />
+<c f="19" b="161" e="0" />
+<c f="19" b="168" e="168" />
+<c f="19" b="169" e="0" />
+<c f="19" b="175" e="175" />
+<c f="19" b="176" e="0" />
+<c f="19" b="179" e="179" />
+<c f="19" b="180" e="0" />
+<c f="19" b="191" e="191" />
+<c f="19" b="192" e="0" />
+<c f="19" b="194" e="197" />
+<c f="19" b="198" e="0" />
+<c f="19" b="199" e="199" />
+<c f="19" b="200" e="0" />
+<c f="19" b="202" e="204" />
+<c f="19" b="205" e="0" />
+<c f="19" b="205" e="205" />
+<c f="19" b="206" e="0" />
+<c f="19" b="206" e="206" />
+<c f="19" b="207" e="0" />
+<c f="19" b="207" e="207" />
+<c f="19" b="208" e="0" />
+<c f="19" b="208" e="208" />
+<c f="19" b="209" e="0" />
+<c f="19" b="211" e="211" />
+<c f="19" b="212" e="0" />
+<c f="19" b="218" e="218" />
+<c f="19" b="219" e="0" />
+<c f="19" b="226" e="226" />
+<c f="19" b="227" e="0" />
+<c f="19" b="230" e="230" />
+<c f="19" b="231" e="0" />
+<c f="19" b="241" e="241" />
+<c f="19" b="242" e="0" />
+<c f="19" b="244" e="244" />
+<c f="19" b="245" e="0" />
+<c f="19" b="252" e="252" />
+<c f="19" b="253" e="0" />
+<c f="19" b="263" e="263" />
+<c f="19" b="265" e="0" />
+<c f="19" b="271" e="279" />
+<c f="19" b="281" e="0" />
+<c f="19" b="293" e="293" />
+<c f="19" b="295" e="0" />
+<c f="19" b="336" e="336" />
+<c f="19" b="339" e="345" />
+<c f="19" b="347" e="0" />
+<c f="19" b="347" e="347" />
+<c f="19" b="348" e="0" />
+<c f="19" b="349" e="349" />
+<c f="19" b="350" e="0" />
+<c f="19" b="359" e="359" />
+<c f="19" b="360" e="0" />
+<c f="19" b="375" e="375" />
+<c f="19" b="376" e="0" />
+<c f="19" b="393" e="393" />
+<c f="19" b="394" e="0" />
+<c f="19" b="396" e="396" />
+<c f="19" b="397" e="0" />
+<c f="19" b="404" e="404" />
+<c f="19" b="405" e="0" />
+<c f="19" b="405" e="405" />
+<c f="19" b="406" e="0" />
+<c f="19" b="406" e="406" />
+<c f="19" b="407" e="0" />
+<c f="19" b="408" e="408" />
+<c f="19" b="409" e="0" />
+<c f="19" b="409" e="409" />
+<c f="19" b="410" e="0" />
+<c f="19" b="410" e="410" />
+<c f="19" b="411" e="0" />
+<c f="19" b="411" e="411" />
+<c f="19" b="412" e="0" />
+<c f="19" b="412" e="412" />
+<c f="19" b="413" e="0" />
+<c f="19" b="413" e="413" />
+<c f="19" b="414" e="0" />
+<c f="19" b="414" e="414" />
+<c f="19" b="416" e="416" />
+<c f="19" b="417" e="0" />
+<c f="19" b="419" e="419" />
+<c f="19" b="421" e="0" />
+<c f="19" b="422" e="422" />
+<c f="19" b="423" e="0" />
+<c f="19" b="426" e="426" />
+</Comments>
+<Macros>
+<m f="19" bl="47" bc="3" el="47" ec="57" />
+<m f="19" bl="48" bc="3" el="48" ec="53" />
+<m f="19" bl="49" bc="3" el="49" ec="52" />
+<m f="19" bl="58" bc="3" el="58" ec="73" />
+<m f="19" bl="59" bc="3" el="61" ec="36" />
+<m f="19" bl="66" bc="3" el="66" ec="73" />
+<m f="19" bl="67" bc="3" el="73" ec="40" />
+<m f="19" bl="78" bc="3" el="78" ec="73" />
+<m f="19" bl="79" bc="3" el="80" ec="29" />
+<m f="19" bl="85" bc="3" el="85" ec="51" />
+<m f="19" bl="86" bc="3" el="88" ec="41" />
+<m f="19" bl="93" bc="3" el="93" ec="51" />
+<m f="19" bl="94" bc="3" el="97" ec="40" />
+<m f="19" bl="103" bc="9" el="107" ec="26" />
+<m f="19" bl="110" bc="3" el="110" ec="51" />
+<m f="19" bl="112" bc="31" el="112" ec="31" />
+<m f="19" bl="117" bc="3" el="117" ec="78" />
+<m f="19" bl="118" bc="3" el="118" ec="75" />
+<m f="19" bl="119" bc="3" el="119" ec="52" />
+<m f="19" bl="124" bc="3" el="124" ec="58" />
+<m f="19" bl="125" bc="3" el="125" ec="59" />
+<m f="19" bl="126" bc="3" el="126" ec="58" />
+<m f="19" bl="127" bc="3" el="127" ec="59" />
+<m f="19" bl="128" bc="3" el="128" ec="58" />
+<m f="19" bl="131" bc="3" el="132" ec="32" />
+<m f="19" bl="133" bc="3" el="133" ec="67" />
+<m f="19" bl="141" bc="3" el="141" ec="66" />
+<m f="19" bl="142" bc="3" el="142" ec="61" />
+<m f="19" bl="150" bc="3" el="150" ec="55" />
+<m f="19" bl="151" bc="3" el="151" ec="65" />
+<m f="19" bl="152" bc="3" el="152" ec="59" />
+<m f="19" bl="153" bc="3" el="153" ec="60" />
+<m f="19" bl="162" bc="3" el="162" ec="75" />
+<m f="19" bl="163" bc="3" el="165" ec="37" />
+<m f="19" bl="170" bc="3" el="170" ec="59" />
+<m f="19" bl="171" bc="3" el="171" ec="54" />
+<m f="19" bl="172" bc="3" el="172" ec="60" />
+<m f="19" bl="173" bc="3" el="174" ec="28" />
+<m f="19" bl="181" bc="3" el="181" ec="75" />
+<m f="19" bl="182" bc="3" el="188" ec="35" />
+<m f="19" bl="193" bc="3" el="193" ec="62" />
+<m f="19" bl="198" bc="3" el="198" ec="54" />
+<m f="19" bl="213" bc="3" el="213" ec="53" />
+<m f="19" bl="214" bc="3" el="215" ec="25" />
+<m f="19" bl="219" bc="9" el="222" ec="49" />
+<m f="19" bl="225" bc="3" el="225" ec="53" />
+<m f="19" bl="227" bc="38" el="227" ec="38" />
+<m f="19" bl="232" bc="3" el="232" ec="53" />
+<m f="19" bl="233" bc="3" el="239" ec="33" />
+<m f="19" bl="246" bc="3" el="246" ec="53" />
+<m f="19" bl="247" bc="3" el="249" ec="41" />
+<m f="19" bl="254" bc="3" el="254" ec="74" />
+<m f="19" bl="255" bc="3" el="257" ec="19" />
+<m f="19" bl="258" bc="3" el="258" ec="54" />
+<m f="19" bl="259" bc="3" el="259" ec="56" />
+<m f="19" bl="360" bc="1" el="360" ec="12" />
+<m f="19" bl="360" bc="36" el="360" ec="62" />
+<m f="19" bl="361" bc="1" el="361" ec="12" />
+<m f="19" bl="361" bc="37" el="362" ec="30" />
+<m f="19" bl="363" bc="1" el="363" ec="12" />
+<m f="19" bl="363" bc="38" el="364" ec="33" />
+<m f="19" bl="365" bc="1" el="365" ec="12" />
+<m f="19" bl="365" bc="38" el="366" ec="33" />
+<m f="19" bl="367" bc="1" el="367" ec="12" />
+<m f="19" bl="367" bc="38" el="368" ec="33" />
+<m f="19" bl="369" bc="1" el="369" ec="12" />
+<m f="19" bl="369" bc="36" el="369" ec="62" />
+<m f="19" bl="370" bc="1" el="370" ec="12" />
+<m f="19" bl="370" bc="32" el="370" ec="58" />
+<m f="19" bl="371" bc="1" el="371" ec="12" />
+<m f="19" bl="371" bc="32" el="371" ec="58" />
+<m f="19" bl="372" bc="1" el="372" ec="12" />
+<m f="19" bl="372" bc="33" el="372" ec="59" />
+<m f="19" bl="373" bc="1" el="373" ec="12" />
+<m f="19" bl="373" bc="34" el="373" ec="60" />
+<m f="19" bl="374" bc="1" el="374" ec="12" />
+<m f="19" bl="374" bc="34" el="374" ec="60" />
+<m f="19" bl="376" bc="1" el="376" ec="12" />
+<m f="19" bl="376" bc="38" el="376" ec="66" />
+<m f="19" bl="377" bc="1" el="377" ec="12" />
+<m f="19" bl="377" bc="38" el="378" ec="33" />
+<m f="19" bl="379" bc="1" el="379" ec="12" />
+<m f="19" bl="379" bc="38" el="380" ec="33" />
+<m f="19" bl="381" bc="1" el="381" ec="12" />
+<m f="19" bl="381" bc="38" el="382" ec="33" />
+<m f="19" bl="383" bc="1" el="383" ec="12" />
+<m f="19" bl="383" bc="37" el="383" ec="65" />
+<m f="19" bl="384" bc="1" el="384" ec="12" />
+<m f="19" bl="384" bc="34" el="384" ec="62" />
+<m f="19" bl="385" bc="1" el="385" ec="12" />
+<m f="19" bl="385" bc="33" el="385" ec="61" />
+<m f="19" bl="386" bc="1" el="386" ec="12" />
+<m f="19" bl="386" bc="34" el="386" ec="62" />
+<m f="19" bl="387" bc="1" el="387" ec="12" />
+<m f="19" bl="387" bc="32" el="387" ec="60" />
+<m f="19" bl="388" bc="1" el="388" ec="12" />
+<m f="19" bl="388" bc="30" el="388" ec="58" />
+<m f="19" bl="389" bc="1" el="389" ec="12" />
+<m f="19" bl="389" bc="38" el="389" ec="66" />
+<m f="19" bl="390" bc="1" el="390" ec="12" />
+<m f="19" bl="390" bc="36" el="390" ec="64" />
+<m f="19" bl="391" bc="1" el="391" ec="12" />
+<m f="19" bl="391" bc="36" el="391" ec="64" />
+<m f="19" bl="392" bc="1" el="392" ec="12" />
+<m f="19" bl="392" bc="37" el="392" ec="65" />
+<m f="19" bl="394" bc="1" el="394" ec="12" />
+<m f="19" bl="394" bc="31" el="394" ec="55" />
+<m f="19" bl="397" bc="1" el="397" ec="12" />
+<m f="19" bl="397" bc="28" el="397" ec="48" />
+<m f="19" bl="398" bc="1" el="398" ec="12" />
+<m f="19" bl="398" bc="24" el="398" ec="44" />
+<m f="19" bl="399" bc="1" el="399" ec="12" />
+<m f="19" bl="399" bc="32" el="401" ec="43" />
+<m f="19" bl="402" bc="1" el="402" ec="12" />
+<m f="19" bl="402" bc="30" el="403" ec="29" />
+</Macros></Index>

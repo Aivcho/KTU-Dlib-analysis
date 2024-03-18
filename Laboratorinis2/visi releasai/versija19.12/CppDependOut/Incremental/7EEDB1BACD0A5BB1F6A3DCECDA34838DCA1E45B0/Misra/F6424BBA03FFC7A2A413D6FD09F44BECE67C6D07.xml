@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.12\dlib-19.12\dlib\external\libjpeg\jidctred.cpp"><violation beginline="138" begincolumn="32" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="138" begincolumn="32" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="138" begincolumn="32" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="140" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+<violation beginline="290" begincolumn="32" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="290" begincolumn="32" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="290" begincolumn="32" rule="Rule5-18-1" ruleset="Statements">
+</violation>
+<violation beginline="292" begincolumn="5" rule="Rule6-4-1" ruleset="Statements">
+</violation>
+</file></cppdepend-plugin>

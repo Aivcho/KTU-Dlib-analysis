@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cppdepend-plugin tool="Misra">
+<file path="c:\users\dell\desktop\antras kursas\antras semestras\t120m013 programų priežiūra ir tobulinimas\laboratorinis2\visi releasai\versija19.9\dlib-19.9\dlib\external\zlib\trees.c"><violation beginline="132" begincolumn="19" rule="Rule4-10-2" ruleset="Expressions">
+</violation>
+</file></cppdepend-plugin>
